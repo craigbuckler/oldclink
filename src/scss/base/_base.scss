@@ -1,0 +1,90 @@
+// Base styles
+@import url('/* @echo font */');
+
+html {
+	touch-action: manipulation;
+}
+
+body, table, button {
+  font-family: $font-main-fallback;
+  font-weight: 300;
+  line-height: 1.35;
+}
+
+body {
+  font-size: 100%;
+  font-size: calc(1em + 0.2vw);
+  padding: 0;
+  margin: 1em;
+}
+
+table, button {
+  font-size: 1rem;
+}
+
+h1, h2 {
+  font-family: $font-head-fallback;
+  font-weight: 300;
+  @include reset;
+  margin: 1.5em 0 0 0;
+  line-height: 1;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+
+body.wf-active {
+
+  &, table, button {
+    font-family: $font-main;
+    font-size: 111%;
+    font-size: calc(1.11em + 0.22vw);
+    font-weight: 400;
+    line-height: 1.2;
+  }
+
+  h1, h2 {
+    font-family: $font-head;
+    font-weight: 400;
+  }
+
+  h1 { font-size: 2.7rem; margin-top: 0.3em; }
+  h2 { font-size: 2rem; margin-top: 1em; }
+
+}
+
+p {
+  margin: 1em 0 0 0;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+strong {
+  font-weight: 400;
+}
+
+em {
+  font-style: normal;
+}
+
+hr {
+	height: 0px;
+	border: 0 none;
+  border-bottom: 1px solid #999;
+	margin: 0.5rem 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  @include reset;
+  user-select: none;
+}

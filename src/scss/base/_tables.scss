@@ -1,0 +1,33 @@
+// table styling
+.tablescroll {
+	overflow-x: auto;
+	margin: 0;
+}
+
+table {
+	width: auto;
+	table-layout: fixed;
+	border-spacing: 0;
+	border-collapse: collapse;
+	empty-cells: show;
+}
+
+th, td {
+	font-weight: 300;
+	text-align: left;
+	vertical-align: middle;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	padding: 0.25em 0.5em;
+	margin: 0;
+	overflow: hidden;
+}
+
+th {
+	font-weight: 400;
+	user-select: none;
+}
+
+td[rowspan] {
+	vertical-align: top;
+}

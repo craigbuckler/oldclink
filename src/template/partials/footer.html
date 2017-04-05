@@ -1,0 +1,5 @@
+<footer>
+  <p>&copy;<%= nowYear %> <%= company %> <%= sitedesc %></p>
+  <p>website developed by <a href="http://optimalworks.net/">OptimalWorks</a></p>
+  <% if (devBuild) { %><p class="dev"><%= layout || 'page.html' %> layout, v<%= version %></p><% } %>
+</footer>

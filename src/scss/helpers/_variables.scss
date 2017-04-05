@@ -1,0 +1,14 @@
+// Global Sass variables
+
+// fonts
+$font-main: Belleza;
+$font-main-fallback: sans-serif;
+$font-head: 'Jim Nightshade';
+$font-head-fallback: serif;
+
+// responsive breakpoints
+$breakpoint: (
+	'small'		: 30rem,
+	'medium'	: 56rem,
+	'large'		: 70rem
+);
