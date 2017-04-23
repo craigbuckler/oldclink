@@ -1,33 +1,12 @@
 // header styles
 header {
 
-  .hero {
-
-    max-height: 40vh;
-
-    img {
-      width: 100%;
-    }
-
-  }
-
-  section {
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-
-  .logo {
-    top: 0;
-    background-color: rgba(255,255,255,0.8);
-    z-index: 1;
+  img {
+    width: 100%;
   }
 
   .quote {
-    position: absolute;
-    top: 6rem;
-    left: 0;
-    right: 0;
+    padding: 0.3rem 0;
   }
 
   p, q, cite {
@@ -37,18 +16,16 @@ header {
     margin-bottom: 0;
   }
 
-  q, cite {
-    text-align: right;
-    color: #fff;
-    text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;
-  }
-
   q {
     font-size: 1.2em;
+    text-align: center;
+    line-height: 1;
   }
 
   cite {
     font-size: 0.85em;
+    text-align: right;
+    margin-top: 0.3em;
   }
 
   a {
@@ -62,6 +39,38 @@ header {
     &:hover, &:active {
       color: $color-fore2;
     }
+  }
+
+  @include respond('small') {
+
+    .hero {
+      max-height: 40vh;
+    }
+
+    section {
+      position: absolute;
+      left: 0;
+      right: 0;
+    }
+
+    #logo {
+      top: 0;
+      background-color: rgba(255,255,255,0.8);
+      z-index: 1;
+    }
+
+    .quote {
+      top: 6rem;
+      left: 0;
+      right: 0;
+    }
+
+    q, cite {
+      text-align: right;
+      color: #fff;
+      text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;
+    }
+
   }
 
 }

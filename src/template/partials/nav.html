@@ -1,6 +1,8 @@
 <nav class="main">
 
-  <section class="menu">
+  <a id="menu" href="#mainmenu" class="noscroll">menu</a>
+
+  <section id="mainmenu">
 
     <%
       let navHTML = navGenerate(nav);
@@ -23,7 +25,7 @@
             '</li>';
         }
 
-        return navHTML ? '<ul>' + navHTML + '</ul>' : navHTML;
+        return navHTML ? '<ul><li><a href="#menu" title="close" class="noscroll close">&#x2715;</a></li>' + navHTML + '</ul>' : navHTML;
       }
     %>
 

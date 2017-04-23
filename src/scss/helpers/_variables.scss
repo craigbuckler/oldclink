@@ -8,13 +8,14 @@ $font-head-fallback: serif;
 
 // colours
 $color-fore1: #224;
-$color-fore2: #88a;
+$color-fore2: #779;
+$color-fore3: #44c;
 $color-back1: #fff;
-$color-back2: #dde;
+$color-back2: #cde;
 
 // responsive breakpoints
 $breakpoint: (
-	'small'		: 30rem,
-	'medium'	: 56rem,
+	'small'		: 40rem,
+	'medium'	: 55rem,
 	'large'		: 70rem
 );

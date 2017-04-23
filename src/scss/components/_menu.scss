@@ -8,31 +8,59 @@
   bottom: 100%;
   z-index: 99;
 
-  .menu {
-    @include centre-column;
+  #mainmenu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba($color-back2,0.9);
+    will-change: transform;
+    transform-origin: 50% 0;
+    transform: scaleY(0);
+  }
+
+  #mainmenu:target {
+    animation: navopen 0.3s ease-out 0s 1 forwards;
+  }
+
+  #menu:target ~ #mainmenu {
+    animation: navclose 0.3s ease-in 0s 1 forwards;
   }
 
   ul {
-    float: right;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
     @include reset-list;
   }
 
   li {
-    display: inline-block;
+    flex: 1 1 auto;
+    @include reset;
   }
 
-  // hide home menu
-  li:first-child {
-    display: none;
+  li a, li strong {
+    display: block;
+    font-size: 8vh;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    padding: 0 5vw;
+    color: $color-fore2;
+    outline: 0 none;
+  }
+
+  a.close {
+    font-size: 6vh;
+    text-align: right;
   }
 
   a {
-    display: block;
-    padding: 0.4em;
-    pointer-events: auto;
 
     &:link, &:visited {
-      color: $color-fore1;
+      color: $color-fore3;
     }
 
     &:hover, &:active {
@@ -41,4 +69,69 @@
 
   }
 
+  #menu {
+    display: inline-block;
+    position: fixed;
+    top: 0.3em;
+    right: 2vw;
+    padding: 0.2em 0.3em;
+    text-transform: uppercase;
+    background-color: rgba(255,255,255,0.7);
+    border: 1px solid currentcolor;
+    outline: 0 none;
+
+    &:before {
+      display: inline-block;
+      content: '\2261';
+      font-weight: bold;
+      font-size: 1.2em;
+      line-height: 1;
+      vertical-align: text-top;
+      margin-right: 0.2em;
+    }
+
+    &:hover, &:active {
+      background-color: $color-back1;
+    }
+  }
+
+  @include respond('small') {
+
+    #mainmenu {
+      position: static;
+      transform: scaleY(1) !important;
+      @include centre-column;
+    }
+
+    ul {
+      width: auto;
+      height: auto;
+      float: right;
+      flex-direction: row;
+    }
+
+    // hide menu link and first item
+    #menu, li:nth-child(1), li:nth-child(2) {
+      display: none;
+    }
+
+    li a, li strong {
+      font-size: 1em;
+      padding: 0.5em;
+    }
+
+  }
+
+}
+
+// menu open navigation
+@keyframes navopen {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(1); }
+}
+
+// menu close navigation
+@keyframes navclose {
+  100% { transform: scaleY(0); }
+  0% { transform: scaleY(1); }
 }
