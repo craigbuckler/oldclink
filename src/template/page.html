@@ -1,24 +1,26 @@
 <%- include('partials/head.html'); %>
 <%- include('partials/header.html'); %>
 
-<button onclick="document.body.classList.toggle('wf-active');return false;">toggle styles</button>
-
 <main>
 
-  <h1><%- title %></h1>
+  <article>
 
-  <%- contents %>
+    <h1><%- title %></h1>
 
-  <%- include('partials/nav-child.html'); %>
+    <%- contents %>
+
+  </article>
+
+  <aside>
+    <%- include('partials/nav-child.html'); %>
+
+    <%- include('partials/nav-relative.html'); %>
+  </aside>
 
 </main>
 
-<aside>
-  <%- include('partials/nav-relative.html'); %>
-</aside>
+<%- include('partials/footer.html'); %>
 
 <%- include('partials/nav.html'); %>
-
-<%- include('partials/footer.html'); %>
 
 <%- include('partials/foot.html'); %>

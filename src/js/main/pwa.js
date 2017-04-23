@@ -1,5 +1,7 @@
 /*
   Enable PWA service worker
+
+  // requires: config.js
 */
 
 (function() {

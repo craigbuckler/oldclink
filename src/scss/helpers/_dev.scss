@@ -1,0 +1,13 @@
+// development helper styles
+
+/* @if devBuild */
+#togglestyle {
+  position: fixed;
+  top: 0;
+  right: 0;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 1;
+  z-index: 999;
+}
+/* @endif */

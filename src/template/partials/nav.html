@@ -1,30 +1,34 @@
 <nav class="main">
 
-  <%
-    let navHTML = navGenerate(nav);
+  <section class="menu">
 
-    function navGenerate(navSet) {
+    <%
+      let navHTML = navGenerate(nav);
 
-      let navHTML = '';
-      for (let p = 0; p < navSet.length; p++) {
-        let
-          page = navSet[p],
-          open = navlist[page.level] === page.item,
-          active = open && !navlist[page.level+1];
+      function navGenerate(navSet) {
 
-        if (!page.private) navHTML +=
-          '<li' + (open ? ' class="open' + (active ? ' active' : '') + '"' : '') + '>' +
-          (active ? '<strong>' : '<a href="' + root + page.url + '">') +
-          page.menu +
-          (active ? '</strong>' : '</a>') +
-          (page.nomenu ? '' : navGenerate(page.child)) +
-          '</li>';
+        let navHTML = '';
+        for (let p = 0; p < navSet.length; p++) {
+          let
+            page = navSet[p],
+            open = navlist[page.level] === page.item,
+            active = open && !navlist[page.level+1];
+
+          if (!page.private) navHTML +=
+            '<li' + (open ? ' class="open' + (active ? ' active' : '') + '"' : '') + '>' +
+            (active ? '<strong>' : '<a href="' + root + page.url + '">') +
+            page.menu +
+            (active ? '</strong>' : '</a>') +
+            // disable sub-menus (page.nomenu ? '' : navGenerate(page.child)) +
+            '</li>';
+        }
+
+        return navHTML ? '<ul>' + navHTML + '</ul>' : navHTML;
       }
+    %>
 
-      return navHTML ? '<ul>' + navHTML + '</ul>' : navHTML;
-    }
-  %>
+    <%- navHTML %>
 
-  <%- navHTML %>
+  </section>
 
 </nav>

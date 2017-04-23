@@ -4,6 +4,10 @@
 <meta charset="UTF-8">
 <title><%= title %> | <%= name %></title>
 
+<!-- preload -->
+<link rel="preload" href="<%= font %>" as="style" crossorigin>
+<link rel="preload" href="<%= root %>js/main.js?<%- version %>" as="script">
+
 <!-- styles -->
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="<%= root %>css/main.css?<%- version %>">
@@ -40,10 +44,6 @@
   <meta name="robots" content="index, follow">
 <% } %>
 
-<!-- feed links -->
-<link rel="alternate" type="application/rss+xml" title="RSS | <%= name %>" href="<%- rootURL %>feed.xml">
-<link rel="alternate" type="application/atom+xml" title="Atom | <%= name %>" href="<%- rootURL %>feed.xml">
-
 <!-- Schema.org -->
 <meta itemprop="name" content="<%= title %>">
 <meta itemprop="description" content="<%= description %>">
@@ -58,12 +58,10 @@
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary">
-
 <% if (twitter) { %>
   <meta property="twitter:site" content="<%= twitter %>">
   <meta property="twitter:creator" content="<%= twitter %>">
 <% } %>
-
 <meta property="twitter:title" content="<%= title %>">
 <meta property="twitter:description" content="<%= description %>">
 

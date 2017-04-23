@@ -12,7 +12,17 @@
   @include reset;
 }
 
-// responsive breakpoints
+// centre column
+@mixin centre-column {
+  display: block;
+  max-width: 55rem;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// responsive breakpoint
 @mixin respond($bp) {
   @media (min-width: map-get($breakpoint, $bp)) {
     @content;

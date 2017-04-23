@@ -1,3 +1,7 @@
+<% if (devBuild) { %>
+  <button id="togglestyle" onclick="document.body.classList.toggle('wf-active');return false;">toggle styles</button>
+<% } %>
+
 <script src="<%= root %>js/main.js?<%- version %>" defer></script>
 
 </body>

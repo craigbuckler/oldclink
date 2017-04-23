@@ -157,7 +157,7 @@ gulp.task('html', ['images'], (done) => {
     .use(devBuild ? beautify() : minify())
     .use(debug ? msutil.debug : msutil.noop)
     .use(sitemap(html.sitemap))
-    .use(rssfeed(html.rssfeed))
+    // .use(rssfeed(html.rssfeed))
     .build((err) => {
       if (err) throw err;
     });

@@ -1,4 +1,18 @@
 <header>
-  <p><a href="<%- root %>"><%- name %></a></p>
-  <hr />
+
+  <section class="logo"><p><a href="[root]"><%- name %></a></p></section>
+
+  <% if (hero) { %>
+    <figure data-href="[root]images/hero/<%- hero %>.jpg" data-srcset="[root]images/hero/<%- hero %>.jpg 800w, [root]images/hero/<%- hero %>-hi.jpg 1200w" class="hero progressive replace">
+      <img src="[root]images/hero/<%- hero %>-pv.jpg" alt="<%= hero.replace(/\d/g, ' ').replace(/\-/g, ' ').replace(/\s+/, ' ').trim(); %>" class="preview" />
+    </figure>
+  <% } %>
+
+  <% if (heroquote) { %>
+  <section class="quote">
+    <q><%- heroquote %></q>
+    <% if (herocite) { %> <cite><%- herocite %></cite><% } %>
+  </section>
+  <% } %>
+
 </header>

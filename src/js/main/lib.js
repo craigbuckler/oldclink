@@ -1,7 +1,7 @@
 /*
 	Utility library
 
-	// requires: config.js pwa.js
+	// requires: config.js font.js pwa.js
 */
 
 oc.lib = (function() {
@@ -239,17 +239,18 @@ oc.lib = (function() {
 		window.addEventListener('scroll', scroller, false);
   	window.addEventListener('resize', scroller, false);
 
-		var scTimer;
-		function scroller(e) {
+	}
 
-			scTimer = scTimer || setTimeout(function() {
-				scTimer = null;
-				requestAnimationFrame(function() {
-					window.dispatchEvent(new CustomEvent('scrollresize', { detail: {}}));
-				});
-			}, 300);
 
-  	}
+	var scTimer;
+	function scroller(e) {
+
+		scTimer = scTimer || setTimeout(function() {
+			scTimer = null;
+			requestAnimationFrame(function() {
+				window.dispatchEvent(new CustomEvent('scrollresize', { detail: {}}));
+			});
+		}, 300);
 
 	}
 

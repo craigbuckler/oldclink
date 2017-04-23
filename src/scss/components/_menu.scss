@@ -1,0 +1,44 @@
+// navigation menu
+.main {
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  z-index: 99;
+
+  .menu {
+    @include centre-column;
+  }
+
+  ul {
+    float: right;
+    @include reset-list;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  // hide home menu
+  li:first-child {
+    display: none;
+  }
+
+  a {
+    display: block;
+    padding: 0.4em;
+    pointer-events: auto;
+
+    &:link, &:visited {
+      color: $color-fore1;
+    }
+
+    &:hover, &:active {
+      color: $color-fore2;
+    }
+
+  }
+
+}
