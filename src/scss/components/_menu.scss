@@ -48,25 +48,16 @@
     text-transform: none;
     text-decoration: none;
     padding: 0 5vw;
-    color: $color-fore2;
     outline: 0 none;
+  }
+
+  li strong {
+    color: $color-fore2;
   }
 
   a.close {
     font-size: 6vh;
     text-align: right;
-  }
-
-  a {
-
-    &:link, &:visited {
-      color: $color-fore3;
-    }
-
-    &:hover, &:active {
-      color: $color-fore2;
-    }
-
   }
 
   #menu {

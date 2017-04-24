@@ -6,9 +6,14 @@ priority: 1.0
 hero: budleigh-beach-1
 heroquote: two weeks contentment in a little piece of heaven
 herocite: R Stanton, Devon
+ctatext: book now
+ctalink: book-holiday-home/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat turpis et nulla fermentum efficitur. Phasellus nec maximus odio, sed blandit turpis. Vivamus feugiat vel sapien at porttitor. Sed fermentum nisl mi, quis tincidunt nisl porttitor in.
+
+> Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
+<cite>Mr &amp; Mrs Layman, Oxford</cite>
 
 Vivamus in quam eu quam congue commodo vitae sit amet dolor. Maecenas eu enim tincidunt, commodo nulla sit amet, faucibus nulla. Aenean venenatis hendrerit accumsan. Cras a rutrum ex. Ut nisl tellus, volutpat et sem vitae, ornare auctor neque. Sed consectetur a eros sed euismod.
 
@@ -21,6 +26,14 @@ Vivamus in quam eu quam congue commodo vitae sit amet dolor. Maecenas eu enim ti
   <figcaption>The Old Clink Annexe bedroom</figcaption>
 
 </figure>
+
+<p class="twitter">twitter</p>
+
+<p class="facebook">facebook</p>
+
+<p class="email">email</p>
+
+<p class="phone">phone</p>
 
 ## Sub-title for comparison
 

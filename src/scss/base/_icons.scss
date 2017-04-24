@@ -1,0 +1,21 @@
+// inlined SVG icons
+
+.icon {
+  padding-left: 1.5em;
+}
+
+.phone {
+  background: inline('images/svg/phone.svg') no-repeat 0.1em 0;
+}
+
+.email {
+  background: inline('images/svg/email.svg') no-repeat 0.1em 0;
+}
+
+.facebook {
+  background: inline('images/svg/facebook.svg') no-repeat 0.1em 0;
+}
+
+.twitter {
+  background: inline('images/svg/twitter.svg') no-repeat 0.1em 0;
+}

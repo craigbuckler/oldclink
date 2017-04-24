@@ -119,7 +119,7 @@ const html = {
 
   inline: {
     attribute: 'data-inline="1"',
-    rootpath: 'build'
+    rootpath: dir.build
   },
 
   tidy: {

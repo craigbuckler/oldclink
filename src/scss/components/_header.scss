@@ -1,12 +1,14 @@
 // header styles
 header {
 
+  position: relative;
+
   img {
     width: 100%;
   }
 
   .quote {
-    padding: 0.3rem 0;
+    padding: 0.3rem 4vw;
   }
 
   p, q, cite {
@@ -28,7 +30,7 @@ header {
     margin-top: 0.3em;
   }
 
-  a {
+  #logo a {
     display: inline-block;
     padding: 0.8rem 0 0.2rem;
 
@@ -44,7 +46,7 @@ header {
   @include respond('small') {
 
     .hero {
-      max-height: 40vh;
+      max-height: 24rem;
     }
 
     section {
@@ -60,12 +62,17 @@ header {
     }
 
     .quote {
-      top: 6rem;
-      left: 0;
-      right: 0;
+      top: 5rem;
+      padding: 0;
+    }
+
+    .cta {
+      bottom: 3em;
     }
 
     q, cite {
+      font-weight: 600;
+      font-style: normal;
       text-align: right;
       color: #fff;
       text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;

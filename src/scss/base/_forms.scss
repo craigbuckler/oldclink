@@ -1,0 +1,53 @@
+// form styles
+
+button, a.button {
+  display: block;
+  width: 10em;
+  height: 2.25em;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  line-height: 2.2;
+  padding: 0 0 0.1em 0;
+  margin: 0.2em auto;
+  border: 0 none;
+  outline: 0;
+  box-shadow: none;
+  user-select: none;
+  cursor: pointer;
+
+  &::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+  }
+
+  &[disabled] {
+    cursor: default;
+  }
+
+  &, &:link, &:visited {
+    color: $color-back1;
+    background-color: $color-fore3;
+  }
+
+  &:hover, &:focus, &:active {
+    background-color: $color-fore2;
+  }
+
+  &.ghost {
+
+    &:link, &:visited {
+      color: $color-fore1;
+      background-color: rgba($color-back1, 0.6);
+      border: 2px solid currentColor;
+    }
+
+    &:hover, &:focus, &:active {
+      color: $color-fore3;
+      background-color: rgba($color-back1, 0.9);
+    }
+
+  }
+
+}
