@@ -5,29 +5,45 @@
 }
 
 table {
-	width: auto;
-	table-layout: fixed;
+	display: table !important;
+	font-size: 1em;
 	border-spacing: 0;
 	border-collapse: collapse;
 	empty-cells: show;
+	margin: 2em auto;
+	border-bottom: 1px solid $color-fore3;
 }
 
 th, td {
-	font-weight: 300;
-	text-align: left;
+	text-align: center;
 	vertical-align: middle;
-	white-space: nowrap;
+	white-space: wrap;
 	text-overflow: ellipsis;
-	padding: 0.25em 0.5em;
-	margin: 0;
+	padding: 0.2em 0.5em;
 	overflow: hidden;
+	border-left: 1px solid $color-fore3;
+	border-right: 1px solid $color-fore3;
 }
 
-th {
-	font-weight: 400;
+th, th a:link, th a:visited {
+	font-weight: 600;
 	user-select: none;
+	color: $color-back1;
+	background-color: $color-fore3;
 }
 
-td[rowspan] {
+td:first-child {
+	text-align: left;
+}
+
+th, td[rowspan] {
 	vertical-align: top;
+}
+
+tr:nth-child(2n) {
+	background-color: rgba(0,0,0,0.05);
+}
+
+tr:hover td {
+	background-color: rgba($color-fore3, 0.1);
 }

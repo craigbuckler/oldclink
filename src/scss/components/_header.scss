@@ -47,10 +47,15 @@ header {
 
     .hero {
       max-height: 70vh;
-      background-color: $color-fore3;
 
-      img {
-        opacity: 0.7;
+      &:after {
+        position: absolute;
+        content: ' ';
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba($color-fore3,0.5);
       }
     }
 

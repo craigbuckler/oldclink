@@ -1,7 +1,7 @@
 /*
 	Utility library
 
-	// requires: config.js font.js pwa.js
+	// requires: config.js polyfills.js font.js pwa.js
 */
 
 oc.lib = (function() {
