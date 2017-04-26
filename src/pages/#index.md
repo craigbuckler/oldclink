@@ -27,13 +27,13 @@ Vivamus in quam eu quam congue commodo vitae sit amet dolor. Maecenas eu enim ti
 
 </figure>
 
-<p class="twitter">twitter</p>
+<p class="icon twitter">twitter</p>
 
-<p class="facebook">facebook</p>
+<p class="icon facebook">facebook</p>
 
-<p class="email">email</p>
+<p class="icon email">email</p>
 
-<p class="phone">phone</p>
+<p class="icon phone">phone</p>
 
 ## Sub-title for comparison
 

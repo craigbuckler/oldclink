@@ -46,10 +46,15 @@ header {
   @include respond('small') {
 
     .hero {
-      max-height: 24rem;
+      max-height: 70vh;
+      background-color: $color-fore3;
+
+      img {
+        opacity: 0.7;
+      }
     }
 
-    section {
+    .hashero & section {
       position: absolute;
       left: 0;
       right: 0;
@@ -57,22 +62,24 @@ header {
 
     #logo {
       top: 0;
-      background-color: rgba(255,255,255,0.8);
       z-index: 1;
+
+      .hashero & {
+        background-color: rgba(255,255,255,0.8);
+      }
     }
 
     .quote {
-      top: 5rem;
+      font-size: calc(1rem + 2vw);
+      top: 12vmin;
       padding: 0;
     }
 
     .cta {
-      bottom: 3em;
+      bottom: 10vh;
     }
 
     q, cite {
-      font-weight: 600;
-      font-style: normal;
       text-align: right;
       color: #fff;
       text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;

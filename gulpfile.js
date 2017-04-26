@@ -173,7 +173,7 @@ const
     build       : dir.build
   },
   rootprocess = {
-    src         : dir.src + 'root/process/*.*'
+    src         : [dir.src + 'root/process/*.*', dir.src + 'root/process/.*']
   };
 
 // root file processing

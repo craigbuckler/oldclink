@@ -2,7 +2,11 @@
 
 footer {
 
-  padding: 1rem 0 2em 0;
+  padding: 1rem 0 2rem 0;
+
+  @media (min-height: 30em) {
+    padding-bottom: 6rem;
+  }
 
   p {
     font-size: 0.9em;

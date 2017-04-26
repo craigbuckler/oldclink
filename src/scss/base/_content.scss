@@ -19,13 +19,17 @@ article {
 
   h1 {
     padding-top: 0.4em;
+  }
 
-    @include respond('small') {
+  @include respond('small') {
+
+    .hashero & h1 {
       position: relative;
       margin-top: -1.1em;
       background-color: $color-back1;
       box-shadow: 0 -5px 5px rgba(0,0,0,0.3);
     }
+
   }
 
   h2 {
