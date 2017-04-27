@@ -10,9 +10,26 @@ ctatext: book now
 ctalink: book-holiday-home/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat turpis et nulla fermentum efficitur. Phasellus nec maximus odio, sed blandit turpis. Vivamus feugiat vel sapien at porttitor. Sed fermentum nisl mi, quis tincidunt nisl porttitor in.
+> Three little words: Heaven on Earth
+<cite>Mr &amp; Mrs Steele</cite>
 
-|Old Clink apartment|[1: "the Annexe"]([root]apartment-1-annexe/)|[2: "the flat"]([root]apartment-2-flat/)|
+The Old Clink offers the last independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
+
+<figure>
+
+  <a href="[root]images/annexe-terrace-2.jpg" class="progressive replace">
+    <img src="[root]images/preview/annexe-terrace-2.jpg" alt="view from The Old Clink Annexe terrace" class="preview" />
+  </a>
+
+  <figcaption>The Old Clink Annexe terrace with direct access to Budleigh beach</figcaption>
+
+</figure>
+
+## Accommodation facilities
+
+Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the flat]([root]apartment-2-flat/):
+
+|Old Clink apartment|["the Annexe"]([root]apartment-1-annexe/)|["the flat"]([root]apartment-2-flat/)|
 |-|-|
 |spectacular sea views|yes|yes|
 |occupancy|2|4 (up to 6)|
@@ -38,21 +55,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat turpis et
 |availability|all year|all year|
 ||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
 
-> Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
-<cite>Mr &amp; Mrs Layman, Oxford</cite>
-
-Vivamus in quam eu quam congue commodo vitae sit amet dolor. Maecenas eu enim tincidunt, commodo nulla sit amet, faucibus nulla. Aenean venenatis hendrerit accumsan. Cras a rutrum ex. Ut nisl tellus, volutpat et sem vitae, ornare auctor neque. Sed consectetur a eros sed euismod.
-
 <figure>
 
-  <a href="[root]images/annexe-bedroom-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-bedroom-1.jpg" alt="view from The Old Clink Annexe bedroom" class="preview" />
+  <a href="[root]images/flat-balcony-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/flat-balcony-1.jpg" alt="view from The Old Clink Flat balcony" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Annexe bedroom</figcaption>
+  <figcaption>The Old Clink Flat balcony overlooking Budleigh beach at sunset</figcaption>
 
 </figure>
 
-## Sub-title
+## Find out more about The Old Clink
 
-In bibendum congue est, dictum commodo magna venenatis quis. Fusce laoreet nisl vel justo convallis, non vulputate leo malesuada. Vestibulum nisl tellus, ultricies ut finibus in, sodales et mauris. Morbi eget leo porta, sodales ante non, molestie enim.
+> Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
+<cite>Mr &amp; Mrs Layman, Oxford</cite>
+
+* [discover The Old Clink]([root]about-old-clink/)
+* [read what others say]([root]about-old-clink/testimonials/)
+* [view the Annexe]([root]apartment-1-annexe/)
+* [view the Flat]([root]apartment-2-flat/)
+* [discover Budleigh Salterton]([root]about-budleigh-salterton/)
+* [find out how to get here]([root]book-holiday-home/travel/)
+* [book your next holiday]([root]book-holiday-home/)

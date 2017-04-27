@@ -1,0 +1,22 @@
+// child navigation lists
+
+nav.list {
+
+  ul {
+    @include reset-list;
+  }
+
+  li {
+    margin-top: 1em;
+  }
+
+  a {
+    display: block;
+  }
+
+  p {
+    margin: 0;
+    color: $color-fore1;
+  }
+
+}

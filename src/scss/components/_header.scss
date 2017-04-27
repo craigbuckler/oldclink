@@ -48,14 +48,30 @@ header {
     .hero {
       max-height: 70vh;
 
-      &:after {
-        position: absolute;
-        content: ' ';
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background-color: rgba($color-fore3,0.5);
+      & + .quote {
+        transform: translateY(-99em);
+      }
+
+      &.progressive:not(.replace) {
+
+        &:after {
+          position: absolute;
+          content: ' ';
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          background-color: $color-fore3;
+          filter: opacity(0%);
+          will-change: filter;
+          animation: 1s linear 1.2s forwards overlayhero;
+        }
+
+        & + .quote {
+          will-change: filter, transform;
+          animation: 1.5s ease-in-out 1.2s forwards quotehero;
+        }
+
       }
     }
 
@@ -94,4 +110,19 @@ header {
 
 }
 
+// animation
+@keyframes overlayhero {
+	0% { filter: opacity(0%); }
+	100% { filter: opacity(60%); }
+}
 
+@keyframes quotehero {
+	0% {
+    filter: opacity(0%) blur(30px);
+    transform: translateY(-2em);
+  }
+	100% {
+    filter: opacity(100%) blur(0px);
+    transform: translateY(0);
+  }
+}

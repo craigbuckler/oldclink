@@ -17,6 +17,7 @@
 @include icon('arrow-up');
 @include icon('arrow-up2');
 @include icon('arrow-right');
+@include icon('tick');
 @include icon('phone');
 @include icon('email');
 @include icon('facebook');
@@ -84,4 +85,12 @@ nav.relative {
     box-shadow: 0 0 2px #000;
   }
 
+}
+
+td.tick {
+  font-size: 0;
+
+  &:before {
+    font-size: 1rem;
+  }
 }
