@@ -19,11 +19,11 @@ Now a relaxing retreat, The Old Clink has been home to the same family since 195
 
 <figure>
 
-  <a href="[root]images/annexe-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-1.jpg" alt="The Old Clink Annexe" class="preview" />
+  <a href="[root]images/flat-balcony-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/flat-balcony-1.jpg" alt="The Old Clink sea view" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Annexe</figcaption>
+  <figcaption>The Old Clink evening sea view</figcaption>
 
 </figure>
 

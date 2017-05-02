@@ -47,6 +47,6 @@ window.caches.keys()
 
           });
 
-      })
+      });
 
   });

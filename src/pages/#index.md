@@ -57,11 +57,11 @@ Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) a
 
 <figure>
 
-  <a href="[root]images/flat-balcony-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/flat-balcony-1.jpg" alt="view from The Old Clink Flat balcony" class="preview" />
+  <a href="[root]images/budleigh-beach-3.jpg" class="progressive replace">
+    <img src="[root]images/preview/budleigh-beach-3.jpg" alt="Budleigh beach" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Flat balcony overlooking Budleigh beach at sunset</figcaption>
+  <figcaption>the famous pebble beach at Budleigh Salterton, East Devon</figcaption>
 
 </figure>
 

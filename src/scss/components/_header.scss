@@ -118,11 +118,11 @@ header {
 
 @keyframes quotehero {
 	0% {
-    filter: opacity(0%) blur(30px);
+    filter: blur(30px);
     transform: translateY(-2em);
   }
 	100% {
-    filter: opacity(100%) blur(0px);
+    filter: blur(0px);
     transform: translateY(0);
   }
 }
