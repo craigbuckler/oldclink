@@ -1,8 +1,32 @@
-<footer>
+<footer class="vcard" itemscope="itemscope" itemtype="http://schema.org/Organization">
 
-  <p>&copy;<%= nowYear %> <%= company %>, <%= sitedesc %></p>
+  <p>
+    &copy;<%= nowYear %>
+    <a href="https://www.theoldclink.co.uk/" class="fn org url" itemprop="name" title="theoldclink.co.uk"><%= company %></a>,
+    <%= sitedesc %>
+  </p>
 
-  <p><a href="tel:+44-1395-446453" class="icon phone" title="call us">+44 (0) 1395 446 453</a> | <a href="[root]book-holiday-home/" class="icon email" title="send us an email">info {at} theoldclink dot co dot uk</a></p>
+  <p class="adr" itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+    <span class="street-address" itemprop="streetAddress">38 Fore Street</span>,
+    <span class="locality" itemprop="addressLocality">Budleigh Salterton</span>,
+    <span class="region" itemprop="addressRegion">Devon</span>
+    <span class="postal-code" itemprop="postalCode">EX9 6NJ</span>,
+    <span class="country-name" itemprop="addressCountry">United Kingdom</span>
+  </p>
+
+  <p>
+    <a href="[root]">home</a> |
+    <a href="[root]about-old-clink/">about</a> |
+    <a href="[root]about-old-clink/testimonials/">feedback</a> |
+    <a href="[root]book-holiday-home/travel/">directions</a> |
+    <a href="[root]book-holiday-home/terms/">terms</a> |
+    <a href="[root]book-holiday-home/">book</a>
+  </p>
+
+  <p>
+    <a href="tel:+44-1395-446453" class="icon phone tel" itemprop="telephone" title="call us">+44 (0) 1395 446 453</a> |
+    <a href="[root]book-holiday-home/" class="icon email" itemprop="email" title="send us an email">info {at} theoldclink dot co dot uk</a>
+  </p>
 
   <p class="dev"><a href="http://optimalworks.net/">an OptimalWorks website</a><% if (devBuild) { %> (<%= layout || 'page.html' %> layout, v<%= version %>)<% } %></p>
 

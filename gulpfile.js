@@ -93,7 +93,12 @@ console.log(pkg.name + ' ' + pkg.version + ', ' + (devBuild ? 'development' : 'p
 gulp.task('clean', (done) => {
   del([
 		dir.build,
-  ]);
+  ],
+  {
+    force: true,
+    // dryRun: true
+  })
+  .then(paths => { console.log('deleted:\n', paths.join('\n')); });
   done();
 });
 

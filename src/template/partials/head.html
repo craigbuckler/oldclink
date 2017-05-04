@@ -44,15 +44,19 @@
   <meta name="robots" content="index, follow">
 <% } %>
 
+<% mainImage = (hero ? rootURL + 'images/hero/' + hero + '.jpg' : '') %>
+
 <!-- Schema.org -->
 <meta itemprop="name" content="<%= title %>">
 <meta itemprop="description" content="<%= description %>">
+<meta itemprop="image" content="<%= mainImage %>">
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="<%= name %>">
 <meta property="og:url" content="<%= rootURL %><%= url %>">
 <meta property="og:title" content="<%= title %>">
 <meta property="og:description" content="<%= description %>">
+<meta property="og:image" content="<%= mainImage %>">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="<%= language %>">
 
@@ -64,6 +68,7 @@
 <% } %>
 <meta property="twitter:title" content="<%= title %>">
 <meta property="twitter:description" content="<%= description %>">
+<meta property="twitter:image" content="<%= mainImage %>" />
 
 </head>
 <body<% if (hero) { %> class="hashero"<% } %>>

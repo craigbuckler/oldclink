@@ -58,7 +58,7 @@
     "metalsmith-publish": "0.1.5",
     "metalsmith-word-count": "0.0.4",
     "postcss-assets": "4.1.0",
-    "vinyl-ftp": "^0.6.0"
+    "vinyl-ftp": "0.6.0"
   },
   "devDependencies": {
     "browser-sync": "2.18.8"

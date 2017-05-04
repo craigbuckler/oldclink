@@ -3,7 +3,7 @@
   <section id="logo"><p><a href="[root]"><%- name %></a></p></section>
 
   <% if (hero) { %>
-    <figure data-href="[root]images/hero/<%- hero %>.jpg" data-srcset="[root]images/hero/<%- hero %>.jpg 800w, [root]images/hero/<%- hero %>-hi.jpg 1200w" class="hero progressive replace">
+    <figure data-href="[root]images/hero/<%- hero %>.jpg" data-srcset="[root]images/hero/<%- hero %>.jpg 800w, [root]images/hero/<%- hero %>-hi.jpg 1200w" class="hero progressive replace" itemprop="primaryImageOfPage">
       <img src="[root]images/hero/<%- hero %>-pv.jpg" alt="<%= hero.replace(/\d/g, ' ').replace(/\-/g, ' ').replace(/\s+/, ' ').trim(); %>" class="preview" />
     </figure>
   <% } %>

@@ -1,0 +1,14 @@
+// map element
+#map {
+  display: none;
+}
+
+#map.active
+{
+	display: block;
+  max-height: 35em;
+  height: 80vh;
+  margin-top: 1em;
+	border-top: 1px solid $color-fore1;
+  border-bottom: 1px solid $color-fore1;
+}
