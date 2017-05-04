@@ -1,7 +1,7 @@
 ---
 title: Apartment 1 - the Annexe
 menu: Annexe
-description: The Annexe
+description: The Old Clink Annexe offers a comfortable retreat for two people. The private terrace provides direct access to Budleigh Salterton beach.
 priority: 0.8
 hero: annexe-window
 heroquote: feeling re-balanced, restored and rested
@@ -9,6 +9,9 @@ herocite: G &amp; J, London
 ctatext: book the Annexe
 ctalink: book-holiday-home/?book=Annexe
 ---
+
+> We slept like angels in this wonderful room.
+<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
 
 The Annexe's top-floor bedroom is a comfortable haven. Relax in front of the French windows open to the sound of the sea.
 
@@ -37,18 +40,13 @@ The Annexe provides either a double or twin beds for one or two guests. The adjo
 
 </figure>
 
-> We shared in your little slice of heaven. Truly wonderful.
-<cite>T &amp; J James, Chesham</cite>
-
-You can dine on freshly-caught fish bought directly from the boat outside your door.
-
 <figure>
 
   <a href="[root]images/annexe-dining-1.jpg" class="progressive replace">
     <img src="[root]images/preview/annexe-dining-1.jpg" alt="The Old Clink Annexe dining area" class="preview" />
   </a>
 
-  <figcaption>dine on freshly-caught fish while viewing the spectacular beach</figcaption>
+  <figcaption>dine on freshly-caught fish bought directly from the boat outside your door</figcaption>
 
 </figure>
 
@@ -63,38 +61,11 @@ The Annexe offers:
 * free wi-fi
 * a television and other entertainments
 * a kitchen with self-catering facilities
+* ample storage
 * gas central heating
 * gas, electricity, water, linen and towels are included
-
-<figure>
-
-  <a href="[root]images/annexe-hall-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-hall-1.jpg" alt="The Old Clink Annexe hallway" class="preview" />
-  </a>
-
-  <figcaption>The Old Clink Annexe hallway and artwork</figcaption>
-
-</figure>
-
-> We slept like angels in this wonderful room.
-<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
-
-An exclusive private terrace provides a table, chairs, sun canopy and direct access to the glorious beach.
-
-<figure>
-
-  <a href="[root]images/annexe-terrace-2.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-terrace-2.jpg" alt="The Old Clink Annexe private terrace" class="preview" />
-  </a>
-
-  <figcaption>private terrace with direct access to Budleigh Salterton's pebble beach</figcaption>
-
-</figure>
-
-> Another lovely holiday in our favourite place.
-<cite>L &amp; J Sherwin, Coventry</cite>
-
-The Annexe is available all year. View the stunning sights of [Budleigh Salterton]([root]about-budleigh-salterton/) and East Devon.
+* an exclusive private terrace with table, chairs, sun canopy
+* direct access to the glorious Budleigh Salterton beach.
 
 <figure>
 
@@ -106,10 +77,32 @@ The Annexe is available all year. View the stunning sights of [Budleigh Salterto
 
 </figure>
 
+<figure>
+
+  <a href="[root]images/annexe-terrace-2.jpg" class="progressive replace">
+    <img src="[root]images/preview/annexe-terrace-2.jpg" alt="The Old Clink Annexe private terrace" class="preview" />
+  </a>
+
+  <figcaption>private terrace with direct access to Budleigh Salterton's pebble beach</figcaption>
+
+</figure>
+
 > Beautiful views. I will miss the sound of the sea in the morning.
 <cite>H, Derbyshire</cite>
 
+The Annexe is available all year. View the stunning sights of [Budleigh Salterton]([root]about-budleigh-salterton/) and East Devon whatever the season.
+
 The promenade along the famous beach leads to the Otter estuary where you can take beautiful walks in the secluded wildlife area.
+
+<figure>
+
+  <a href="[root]images/annexe-hall-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/annexe-hall-1.jpg" alt="The Old Clink Annexe hallway" class="preview" />
+  </a>
+
+  <figcaption>The Old Clink Annexe hallway and artwork</figcaption>
+
+</figure>
 
 <figure>
 
@@ -121,11 +114,13 @@ The promenade along the famous beach leads to the Otter estuary where you can ta
 
 </figure>
 
+## Terms &amp; conditions
+
 > Great visit. Beautiful part of England. Superb weather. Hope to return.
 <cite>R &amp; J Block, Auckland, New Zealand</cite>
 
 _The Annexe has a steep stairway and is not suitable for the disabled, elderly or young children. [The Flat offers full access facilities]([root]apartment-2-flat/)._
 
-_Pets are not permitted. However, dogs are welcome to use alternative accommodation within the property. Please refer to our [Terms &amp; Conditions]([root]book-holiday-home/terms/)._
+_Pets are not permitted. However, dogs are welcome to use alternative accommodation within the property. Please refer to our [terms &amp; conditions]([root]book-holiday-home/terms/)._
 
-[Book your next holiday at The Old Clink Annexe...]([root]book-holiday-home/?book=Annexe)
+[Book your next holiday at The Old Clink Annexe&hellip;]([root]book-holiday-home/?book=Annexe)

@@ -7,8 +7,47 @@ header {
     width: 100%;
   }
 
+  .hero {
+
+    max-height: 70vh;
+
+    & + .quote {
+      transform: translateY(-99em);
+    }
+
+    &.progressive:not(.replace) {
+
+      &:after {
+        position: absolute;
+        content: ' ';
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: $color-fore3;
+        filter: opacity(0%);
+        will-change: filter;
+        animation: 1s linear 1.2s forwards overlayhero;
+      }
+
+      & + .quote {
+        will-change: filter, transform;
+        animation: 1.5s ease-in-out 1.2s forwards quotehero;
+      }
+
+    }
+  }
+
   .quote {
-    padding: 0.3rem 4vw;
+    font-size: calc(1rem + 2vmin);
+    top: 15vmin;
+    padding: 0 3vw;
+  }
+
+  .hashero & .quote {
+    position: absolute;
+    left: 0;
+    right: 0;
   }
 
   p, q, cite {
@@ -16,6 +55,11 @@ header {
     @include centre-column;
     margin-top: 0;
     margin-bottom: 0;
+  }
+
+  q, cite {
+    color: #fff;
+    text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;
   }
 
   q {
@@ -47,38 +91,6 @@ header {
 
     .hero {
       max-height: 70vh;
-
-      & + .quote {
-        transform: translateY(-99em);
-      }
-
-      &.progressive:not(.replace) {
-
-        &:after {
-          position: absolute;
-          content: ' ';
-          top: 0;
-          bottom: 0;
-          left: 0;
-          right: 0;
-          background-color: $color-fore3;
-          filter: opacity(0%);
-          will-change: filter;
-          animation: 1s linear 1.2s forwards overlayhero;
-        }
-
-        & + .quote {
-          will-change: filter, transform;
-          animation: 1.5s ease-in-out 1.2s forwards quotehero;
-        }
-
-      }
-    }
-
-    .hashero & section {
-      position: absolute;
-      left: 0;
-      right: 0;
     }
 
     #logo {
@@ -86,24 +98,17 @@ header {
       z-index: 1;
 
       .hashero & {
+        position: absolute;
+        width: 100%;
         background-color: rgba(255,255,255,0.8);
       }
     }
 
-    .quote {
-      font-size: calc(1rem + 2vw);
-      top: 12vmin;
-      padding: 0;
-    }
-
     .cta {
-      bottom: 10vh;
-    }
-
-    q, cite {
-      text-align: right;
-      color: #fff;
-      text-shadow: 1px 1px 2px #000, 1px 1px 3px #000;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 10vmin;
     }
 
   }

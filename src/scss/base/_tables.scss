@@ -47,3 +47,7 @@ tr:nth-child(2n) {
 tr:hover td {
 	background-color: rgba($color-fore3, 0.1);
 }
+
+article table a {
+	border-bottom: 0 none;
+}

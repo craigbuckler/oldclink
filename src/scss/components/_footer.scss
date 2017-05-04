@@ -5,7 +5,9 @@ footer {
   padding: 1rem 0 2rem 0;
 
   @media (min-height: 30em) {
-    padding-bottom: 6rem;
+    .scroll-1 & {
+      padding-bottom: 6rem;
+    }
   }
 
   p {

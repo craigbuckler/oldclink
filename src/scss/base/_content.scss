@@ -34,11 +34,11 @@ article {
 
   }
 
-  h2 {
+  h2, h3 {
     margin-top: 1em;
   }
 
-  h2 + p {
+  h2 + p, h3 + p {
     margin-top: 0.2em;
   }
 
@@ -50,6 +50,26 @@ article {
     margin: 0.3em 0 0 2em;
   }
 
+  ul.book {
+    font-size: 2em;
+    list-style-type: none;
+    margin-bottom: 2em;
+
+    li {
+      text-align: center;
+      margin: 0.5em 0;
+    }
+
+    a {
+      border: 0 none;
+    }
+
+  }
+
+  a {
+    border-bottom: 1px dotted currentColor;
+  }
+
   figure {
     clear: both;
     text-align: center;
@@ -57,7 +77,9 @@ article {
     margin: 1em 0 1.5em 0;
 
     a {
+      max-height: 80vh;
       box-shadow: 0 3px 3px rgba(0,0,0,0.6);
+      border-bottom: 0 none;
     }
   }
 
@@ -84,6 +106,9 @@ article {
   }
 
   blockquote {
+
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 
     p {
       font-size: 1.3em;
@@ -114,6 +139,7 @@ article {
 
     @include respond('small') {
 
+      margin-top: 1em;
       margin-bottom: 1em;
 
       p {

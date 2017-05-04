@@ -15,7 +15,7 @@ The Old Clink is one of the oldest buildings in East Devon. During the past few 
 > A quiet and dreamy sanctuary. Set apart and special.
 <cite>D &amp; J Dean</cite>
 
-Now a relaxing retreat, The Old Clink has been home to the same family since 1953. [The Annexe]([root]apartment-1-annexe/) has been a popular self-catering holiday apartment since 1995. [The Flat]([root]apartment-2-flat/) was completed in 2017 and provides a comfortable two-bedroom holiday apartment for families and groups of up to six people.
+Now a relaxing retreat, The Old Clink has been home to the same family since 1953. [The Annexe]([root]apartment-1-annexe/) has been a popular self-catering holiday apartment since 1995. [The Flat]([root]apartment-2-flat/) was completed in 2017 and provides a comfortable two-bedroom holiday apartment for families and groups of up to six people. [View our customer testimonials...]([root]about-old-clink/testimonials/)
 
 <figure>
 

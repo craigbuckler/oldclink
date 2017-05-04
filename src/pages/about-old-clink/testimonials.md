@@ -3,7 +3,7 @@ title: The Old Clink testimonials
 menu: Testimonials
 description: Quotes and feedback from happy holidayers who stayed at The Old Clink in Budleigh Salterton, East Devon, UK.
 priority: 0.5
-hero: flat-balcony
+hero: annexe-terrace
 heroquote: A home of dreams. Lovely accommodation and a view to die for.
 herocite: L &amp; J Sherwin, Coventry
 ctatext: book now
@@ -113,7 +113,7 @@ The following is a small selection of testimonials and feedback from the hundred
 <q>The perfect place to have a lovely break.</q>
 <cite>M &amp; J, Hereford</cite>
 
-<q>Back again to feed our soles.</q>
+<q>Back again to feed our souls.</q>
 <cite>S &amp; S, Exeter</cite>
 
 <q>We do not want to leave. Thank you for your hospitality and friendship.</q>

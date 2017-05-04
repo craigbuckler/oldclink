@@ -242,7 +242,7 @@ var css = {
       basePath: dir.build
     }),
     require('autoprefixer')({
-      browsers: ['last 2 versions', '> 2%']
+      browsers: ['> 2%']
     }),
     require('css-mqpacker')
   ]
