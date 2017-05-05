@@ -1,5 +1,5 @@
 /*
-	Progressive image handling
+	Google map
 
 	// requires: lib.js
 */
@@ -26,9 +26,6 @@ window.addEventListener('load', function() {
   map = oc.lib.id(cfg.id);
   if (map) {
 
-    // activate map element
-    map.classList.add(cfg.active);
-
     // load map API
     var scr = document.createElement('script');
     scr.src = 'https://maps.googleapis.com/maps/api/js?key=' + cfg.api + '&callback=oc.mapStart';
@@ -42,6 +39,9 @@ window.addEventListener('load', function() {
 
 // show map
 oc.mapStart = function() {
+
+  // activate map element
+  map.classList.add(cfg.active);
 
   // show map
   var mapControl = new google.maps.Map(map, {

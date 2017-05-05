@@ -1,5 +1,5 @@
 ---
-title: About The Old Clink
+title: About The Old Clink in Budleigh Salterton
 menu: About
 description: The Old Clink is one of the oldest buildings in Budleigh Salterton, East Devon, UK. It was a prison and an inn before becoming a relaxing retreat.
 priority: 0.9

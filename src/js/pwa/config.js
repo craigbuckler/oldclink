@@ -8,13 +8,14 @@
 const
   version = '/* @echo version */',
   CACHE = version + '/* @echo PWAcache */',
-  offlineURL = '/* @echo offlineURL */',
+  offlineURL = '/* @echo rootpath *//* @echo offlineURL */',
   installFilesEssential = [
-    '/',
-    '/manifest.json',
-    '/css/main.css',
-    '/js/main.js',
-    '/js/offlinepage.js'
+    '/* @echo rootpath */',
+    '/* @echo rootpath */manifest.json',
+    '/* @echo rootpath */css/main.css',
+    '/* @echo rootpath */js/main.js',
+    '/* @echo rootpath */js/offlinepage.js'
   ].concat(offlineURL),
   installFilesDesirable = [
+    '/* @echo rootpath */book-holiday-home/'
   ];

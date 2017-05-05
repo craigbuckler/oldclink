@@ -325,6 +325,7 @@ gulp.task('jspwa', () => {
     .pipe(preprocess({ context: sitemeta }))
     .pipe(deporder())
     .pipe(concat(jspwa.filename))
+    .pipe(devBuild ? gutil.noop() : stripdebug())
     .pipe(devBuild ? gutil.noop() : lightmin())
     .on('error', (err) => { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
     .pipe(gulp.dest(jspwa.build));

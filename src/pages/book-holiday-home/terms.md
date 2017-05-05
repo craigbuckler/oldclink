@@ -1,5 +1,5 @@
 ---
-title: Terms &amp; conditions
+title: Apartment let terms &amp; conditions
 menu: T&amp;Cs
 description: Terms and conditions for staying at the Annexe or the Flat apartments at The Old Clink, Budleigh Salterton, East Devon.
 priority: 0.1
@@ -15,8 +15,8 @@ We hope everyone has an enjoyable and safe stay at The Old Clink.
 > Our ninth year at The Old Clink. It feels like a second home to us.
 <cite>B & A, Bristol</cite>
 
-## Booking
-The Old Clink apartments are available all year but must be booked in advance.
+## Tariff and availability
+The Old Clink apartments are available all year but must be booked in advance. Stays are normally booked from Saturday to Saturday but alternative days may be possible.
 
 Please [contact Sarah]([root]book-holiday-home/) to confirm your requirements and dates of stay. A non-refundable deposit will be requested to reserve your holiday with full payment on arrival.
 
@@ -36,15 +36,15 @@ Apartments are thoroughly cleaned between each let.
 The apartments are supplied with all linen and towels appropriate for the number of occupants. The hirer shall ensure a good level of cleanliness is maintained.
 
 ## Parking
-Free parking spaces are sited across the road from The Old Clink. These cannot be reserved and there is no guarantee of availability. A car park is a few minutes walk from the premises.
+Free parking spaces are sited across the road from The Old Clink. Spaces cannot be reserved and there is no guarantee of availability. A car park is a few minutes walk from the premises.
 
 ## Utilities
 All gas, electricity, water and central heating is included in the price.
 
 ## Wi-fi
-Wifi is included but no guarantee can be given for speed or availability. A reasonable-use policy may be enforced.
+Wifi is included in the price but no guarantee can be given for speed or availability. A reasonable-use policy may be enforced.
 
-## No smoking
+## Smoking
 Smoking is not permitted in either apartment.
 
 > Beautiful spot. A place of healing. Will return for my next escape.
@@ -55,5 +55,3 @@ Pets are not permitted in either apartment. However, well behaved dogs are welco
 
 ## Complaints
 We hope you enjoy your stay. In the unlikely event of dissatisfaction with the property, please contact us immediately so we have an opportunity to rectify the problem.
-
-[Book your next holiday in Budleigh Salterton&hellip;]([root]book-holiday-home/)

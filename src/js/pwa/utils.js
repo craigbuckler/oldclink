@@ -55,7 +55,7 @@ function offlineAsset(url) {
 
     // return image
     return new Response(
-      '<svg role="img" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title>offline</title><path d="M0 0h400v300H0z" fill="#eee" /><text x="200" y="150" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="50" fill="#ccc">offline</text></svg>',
+      '<svg role="img" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg"><title>offline</title><path d="M0 0h400v300H0z" fill="#eee" /><text x="150" y="100" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="30" fill="#ddd">offline</text></svg>',
       { headers: {
         'Content-Type': 'image/svg+xml',
         'Cache-Control': 'no-store'

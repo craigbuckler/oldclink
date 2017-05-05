@@ -1,5 +1,5 @@
 ---
-title: The Old Clink testimonials
+title: The Old Clink customer feedback &amp; testimonials
 menu: Testimonials
 description: Quotes and feedback from happy holidayers who stayed at The Old Clink in Budleigh Salterton, East Devon, UK.
 priority: 0.5

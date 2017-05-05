@@ -32,7 +32,7 @@ window.caches.keys()
 
             reqList
               .map(req => req.url)
-              .filter(req => (req.endsWith('/') || req.endsWith('.html')) && !req.endsWith(offlineURL))
+              .filter(req => (req.endsWith('/') || req.endsWith('.html')) && !req.endsWith(offlineURL) && req !== '/error/')
               .sort()
               .forEach(req => {
                 let

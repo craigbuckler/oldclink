@@ -1,5 +1,5 @@
 ---
-title: Apartment 1 - the Annexe
+title: Holiday apartment 1 - the Annexe
 menu: Annexe
 description: The Old Clink Annexe offers a comfortable retreat for two people. The private terrace provides direct access to Budleigh Salterton beach.
 priority: 0.8

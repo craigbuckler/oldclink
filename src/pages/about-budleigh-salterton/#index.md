@@ -1,5 +1,5 @@
 ---
-title: About Budleigh Salterton, East Devon
+title: About Budleigh Salterton in East Devon
 menu: Budleigh
 description: The location, history and amenities available in Budleigh Salterton, East Devon, UK.
 priority: 0.6

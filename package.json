@@ -8,7 +8,7 @@
     "name": "The Old Clink",
     "shortname": "Old Clink",
     "description": "Budleigh Salterton self-catering holiday apartments",
-    "keywords": "clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, break, beach, seaside, coastal, apartment, home, direct, private, independent, let, lets, letting, rental, self catering, book, booking",
+    "keywords": "clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, break, beach, seaside, coastal, apartment, home, direct, private, independent, let, lets, letting, rental, self catering, book, booking, hire",
     "company": "The Old Clink",
     "font": "https://fonts.googleapis.com/css?family=Jim+Nightshade|Raleway:300,300i,600&subset=latin",
     "twitter": "",
@@ -21,8 +21,9 @@
     "devroot": "/",
     "themeColor": "#fff",
     "PWAcache": "::OldClink",
-    "offlineURL": "/offline/",
-    "offlineList": "cachedpagelist"
+    "offlineURL": "offline/",
+    "offlineList": "cachedpagelist",
+    "analytics": "UA-19751037-1"
   },
   "scripts": {
     "start": "gulp build",

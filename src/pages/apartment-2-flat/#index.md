@@ -1,5 +1,5 @@
 ---
-title: Apartment 2 - the Flat
+title: Hoiday apartment 2 - the Flat
 menu: Flat
 description: The Old Clink Flat is a modern two-bedroom apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
 priority: 0.7

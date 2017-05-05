@@ -70,6 +70,20 @@ article {
 
   }
 
+  .vcard {
+    p {
+      margin: 0;
+    }
+
+    span {
+      display: block;
+    }
+
+    a {
+      border: 0 none;
+    }
+  }
+
   a {
     border-bottom: 1px dotted currentColor;
   }

@@ -1,5 +1,5 @@
 ---
-title: Book an apartment at The Old Clink
+title: Book a holiday apartment at The Old Clink
 menu: Contact
 description: How to book the Annexe or the Flat at the Old Clink for your next vacation in Budleigh Salterton, East Devon.
 priority: 0.5

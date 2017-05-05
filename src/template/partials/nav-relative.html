@@ -8,12 +8,12 @@
     }
 
     // back
-    if (navrel.back) {
+    if (!nomenu && navrel.back) {
       // rel += '<li class="link-back"><a href="' + root + navrel.back.url + '">' + navrel.back.title + '</a></li>';
     }
 
     // next
-    if (navrel.next) {
+    if (!nomenu && navrel.next) {
       rel += '<li class="link-next"><a href="' + root + navrel.next.url + '" class="icon arrow-right">' + navrel.next.title + '</a></li>';
     }
 

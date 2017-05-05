@@ -3,14 +3,14 @@ RewriteEngine On
 /* @if !devBuild */
 # enforce HTTPS
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://www.theoldclink.co.uk/$1 [R,L]
+RewriteRule ^(.*)$ https://www.theoldclink.co.uk/$1 [L,R=301]
+
+# enforce www
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [L,R=301]
 
 # remove index.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)index\.html$ /$1 [L,R=301]
-
-# errors
-errordocument 404 /* @echo root */error/
-errordocument 500 /* @echo root */error/
+RewriteRule . redir.php [L]
 /* @endif */
