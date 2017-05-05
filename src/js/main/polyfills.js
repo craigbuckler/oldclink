@@ -4,6 +4,13 @@ Browser API Polyfills
 
 (function () {
 
+  // Math.sign
+  if (!Math.sign) Math.sign = function(val) {
+    val = +val;
+    if (val) return val > 0 ? 1 : -1;
+    else return 0;
+  };
+
   // CustomEvent (IE)
   if (typeof window.CustomEvent === 'function') return;
 

@@ -1,0 +1,62 @@
+// printer styling
+@media print {
+
+	html, body {
+		width: 100%;
+		font-size: 100%;
+		color: #000;
+		background-color: #fff;
+	}
+
+  header, figure, nav, .nav, #map, #contact, #togglestyle {
+    display: none !important;
+  }
+
+  article, aside, footer {
+
+    & > *:not(.full) {
+      max-width: 100%;
+      padding: 0;
+    }
+
+  }
+
+  article {
+
+    h1 {
+      position: static !important;
+      margin: 0 0 0.5em 0 !important;
+      border: 0 none !important;
+    }
+
+    table {
+      margin: 1em auto !important;
+    }
+
+    table, thead {
+      border: 1px solid $color-fore3;
+    }
+
+    td.tick {
+      font-size: 1em;
+
+      &:before {
+        display: none;
+      }
+    }
+
+    blockquote {
+      clear: right;
+    }
+
+  }
+
+  footer {
+    border-top: 1px solid #ccc;
+
+    p {
+      margin-top: 0 !important;
+    }
+  }
+
+}

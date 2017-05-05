@@ -16,7 +16,7 @@
     "domain": "https://www.theoldclink.co.uk",
     "ftphost": "ftp.theoldclink.co.uk",
     "ftpdest": "/public_html",
-    "root": "/v2/",
+    "root": "/",
     "devdomain": "http://192.168.1.23:8000",
     "devroot": "/",
     "themeColor": "#fff",
