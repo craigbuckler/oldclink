@@ -17,8 +17,20 @@ window.addEventListener('load', function() {
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  // record page view
   ga('create', oc.analytics, 'auto');
   ga('send', 'pageview');
+
+  // telephone/mail custom event
+  document.body.addEventListener('click', function(e) {
+
+    if (typeof ga === 'undefined' || !e || !e.target || !e.target.href) return;
+    var type = String(e.target.href).trim().toLowerCase().match(/^[^:]+:/);
+    if (!type || !type.length) return;
+    type = type[0];
+    if (type === 'tel:' || type === 'mailto:') ga('send', 'event', 'contact', type.slice(0, -1));
+
+  }, false);
 
 }, false);
 
