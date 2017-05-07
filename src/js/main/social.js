@@ -44,6 +44,11 @@ document.body.addEventListener('click', function(e) {
     e.preventDefault();
   }
 
+  // analytics event
+  if (typeof ga !== 'undefined') {
+    ga('send', 'event', 'social', String(e.target.className || '').replace('icon', '').replace(cfg.className, '').trim() || 'unknown');
+  }
+
   return !!popup;
 
 }, false);
