@@ -8,7 +8,7 @@
 
 'use strict';
 
-if (!oc.font) return;
+if (!oc.font || !document.body || !document.head) return;
 
 // load font
 var css = document.createElement('link');

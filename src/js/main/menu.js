@@ -8,6 +8,8 @@
 
 'use strict';
 
+if (!window.addEventListener) return;
+
 window.addEventListener('unload', removeTarget, false);
 
 var menu = oc.lib.id(oc.menuId);

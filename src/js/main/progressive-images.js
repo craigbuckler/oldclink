@@ -8,7 +8,7 @@
 'use strict';
 
 // unsupported browser
-if (!CustomEvent || !document.getElementsByClassName) return;
+if (!CustomEvent || !document.getElementsByClassName || !document.body.classList) return;
 
 
 // progressive image loader

@@ -8,6 +8,8 @@
 
 'use strict';
 
+if (!window.addEventListener) return;
+
 // string to find, class to apply
 var
   find = 'yes',

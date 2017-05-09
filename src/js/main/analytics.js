@@ -7,10 +7,10 @@
 
 'use strict';
 
-if (!window.addEventListener || oc.devBuild || location.host.indexOf('.co') < 0) return;
+if (oc.devBuild || location.host.indexOf('.co') < 0) return;
 
 // load analytics API
-window.addEventListener('load', function() {
+setTimeout(function() {
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -22,7 +22,7 @@ window.addEventListener('load', function() {
   ga('send', 'pageview');
 
   // telephone/mail custom event
-  document.body.addEventListener('click', function(e) {
+  if (window.addEventListener) document.body.addEventListener('click', function(e) {
 
     if (typeof ga === 'undefined' || !e || !e.target || !e.target.href) return;
     var type = String(e.target.href).trim().toLowerCase().match(/^[^:]+:/);
@@ -32,6 +32,6 @@ window.addEventListener('load', function() {
 
   }, false);
 
-}, false);
+}, 200);
 
 })();

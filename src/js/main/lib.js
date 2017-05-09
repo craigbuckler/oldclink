@@ -169,7 +169,7 @@ oc.lib = (function() {
 		empty: empty,
 		queryStringParse: queryStringParse,
 		eventDebounce: eventDebounce,
-		eventThrottle: eventThrottle,
+		eventThrottle: eventThrottle
 	};
 
 })();
