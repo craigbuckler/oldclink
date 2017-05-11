@@ -3,7 +3,7 @@ title: Welcome to The Old Clink, Budleigh Salterton
 menu: Old Clink
 description: The Old Clink - independent self-catering holiday apartments in Budleigh Salterton, East Devon, UK.
 priority: 1.0
-hero: budleigh-beach-1
+hero: budleigh-beach-2
 heroquote: two weeks contentment in a little piece of heaven
 herocite: R Stanton, Devon
 ctatext: book now
@@ -13,7 +13,7 @@ ctalink: book-holiday-home/
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink offers the last independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
+The Old Clink provides the only independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
 
 <figure>
 
@@ -42,7 +42,7 @@ Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) a
 |balcony||yes|
 |shower|yes|yes|
 |bath||yes|
-|en-suite WC|yes|yes|
+|en-suite WC|yes||
 |free wifi|yes|yes|
 |television|yes|yes|
 |gas central heating|yes|yes|
@@ -57,23 +57,24 @@ Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) a
 
 <figure>
 
-  <a href="[root]images/budleigh-beach-3.jpg" class="progressive replace">
-    <img src="[root]images/preview/budleigh-beach-3.jpg" alt="Budleigh beach" class="preview" />
+  <a href="[root]images/budleigh-beach-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/budleigh-beach-1.jpg" alt="Budleigh beach" class="preview" />
   </a>
 
   <figcaption>the famous pebble beach at Budleigh Salterton, East Devon</figcaption>
 
 </figure>
 
-## Find out more about The Old Clink
+## Further information
+For more details about our holiday apartments&hellip;
 
 > Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
 <cite>Mr &amp; Mrs Layman, Oxford</cite>
 
 * [discover The Old Clink]([root]about-old-clink/)
 * [read what others say]([root]about-old-clink/testimonials/)
-* [view the Annexe]([root]apartment-1-annexe/)
-* [view the Flat]([root]apartment-2-flat/)
+* [view the Annexe apartment]([root]apartment-1-annexe/)
+* [view the Flat apartment]([root]apartment-2-flat/)
 * [discover Budleigh Salterton]([root]about-budleigh-salterton/)
 * [find out how to get here]([root]book-holiday-home/travel/)
 * [book your next holiday]([root]book-holiday-home/)

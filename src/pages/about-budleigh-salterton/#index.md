@@ -3,7 +3,7 @@ title: About Budleigh Salterton in East Devon
 menu: Budleigh
 description: The location, history and amenities available in Budleigh Salterton, East Devon, UK.
 priority: 0.6
-hero: budleigh-beach-2
+hero: budleigh-beach-1
 heroquote: all summers were like this when I was young
 herocite: R &amp; A Hayward, Cowbridge
 ctatext: book now

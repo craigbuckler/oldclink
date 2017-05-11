@@ -11,7 +11,7 @@ ctalink: book-holiday-home/?book=Annexe
 ---
 
 > We slept like angels in this wonderful room.
-<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
+<cite>B &amp; D King-Robinson, Zurich, Switzerland</cite>
 
 The Annexe's top-floor bedroom is a comfortable haven. Relax in front of the French windows open to the sound of the sea.
 
@@ -26,7 +26,7 @@ The Annexe's top-floor bedroom is a comfortable haven. Relax in front of the Fre
 </figure>
 
 > We never wanted to leave and will never sleep as well again!
-<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
+<cite>B &amp; D King-Robinson, Zurich, Switzerland</cite>
 
 The Annexe provides either a double or twin beds for one or two guests. The adjoining en-suite WC provides a wash basin.
 
