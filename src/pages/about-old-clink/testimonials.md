@@ -10,9 +10,7 @@ ctatext: book now
 ctalink: book-holiday-home/
 ---
 
-The following is a small selection of testimonials and feedback from the hundreds of happy holidayers who have stayed at The Old Clink.
-
-
+The following is a small selection of testimonials and feedback from the hundreds of happy holidayers who have stayed at The Old Clink. Many return year after year once they have discovered the peaceful self-catering accommodation in Budleigh Salterton.
 
 <q>Excellent accommodation and hospitality is second to none.</q>
 <cite>Mr &amp; Mrs Atkinson, Halberton</cite>
@@ -27,7 +25,7 @@ The following is a small selection of testimonials and feedback from the hundred
 <cite>Mr &amp; Mrs Cole, Coventry</cite>
 
 <q>We never wanted to leave and will never sleep as well again!</q>
-<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
+<cite>B &amp; D King-Robinson, Zurich, Switzerland</cite>
 
 <q>Two weeks of peace and contentment in a little piece of heaven.</q>
 <cite>R Stanton, Devon</cite>
@@ -57,7 +55,7 @@ The following is a small selection of testimonials and feedback from the hundred
 <cite>D &amp; P Ford, Shropshire</cite>
 
 <q>We slept like angels in this wonderful room.</q>
-<cite>B &amp; D Robinoso, Zurich, Switzerland</cite>
+<cite>B &amp; D King-Robinson, Zurich, Switzerland</cite>
 
 <q>Recharged once more</q>
 <cite>J &amp; J Gates, Halberton</cite>
