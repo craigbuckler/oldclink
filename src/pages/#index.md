@@ -13,7 +13,7 @@ ctalink: book-holiday-home/
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink provides the only independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
+The Old Clink provides two independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
 
 <figure>
 
