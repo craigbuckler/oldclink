@@ -1,8 +1,8 @@
 # security
-Header set Content-Security-Policy "default-src 'self'; style-src 'self' 'unsafe-inline' *.googleapis.com; script-src 'self' *.google-analytics.com *.googleapis.com *.cloudflare.com data:; img-src * data:; font-src 'self' *.gstatic.com"
+Header set Content-Security-Policy "default-src 'self'; style-src 'self' 'unsafe-inline' *.googleapis.com; script-src 'self' *.google-analytics.com *.googleapis.com *.cloudflare.com data:; connect-src 'self' *.google-analytics.com *.googleapis.com *.gstatic.com data:; img-src * data:; font-src 'self' *.gstatic.com data:"
 Header set Strict-Transport-Security "max-age=63072000"
 Header set X-Content-Type-Options nosniff
-Header set X-Frame-Options DENY
+Header set X-Frame-Options SAMEORIGIN
 Header set X-XSS-Protection "1; mode=block"
 
 RewriteEngine On
