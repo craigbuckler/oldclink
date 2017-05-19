@@ -1,7 +1,7 @@
 ---
-title: Welcome to The Old Clink, Budleigh Salterton
+title: The Old Clink, Budleigh Salterton Holiday Accommodation
 menu: Old Clink
-description: The Old Clink - independent self-catering holiday apartments in Budleigh Salterton, East Devon, UK.
+description: The Old Clink - independent self-catering holiday accommodation apartments in Budleigh Salterton, East Devon, UK.
 priority: 1.0
 hero: budleigh-beach-2
 heroquote: two weeks contentment in a little piece of heaven
@@ -13,7 +13,7 @@ ctalink: book-holiday-home/
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink provides two independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
+The Old Clink provides two independent self-catering holiday apartments in the picturesque small town of [Budleigh Salterton]([root]about-budleigh-salterton/).
 
 <figure>
 

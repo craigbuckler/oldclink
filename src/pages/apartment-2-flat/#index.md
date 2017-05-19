@@ -1,7 +1,7 @@
 ---
-title: Hoiday apartment 2 - the Flat
+title: Budleigh Salterton holiday apartment 2 - the Flat
 menu: Flat
-description: The Old Clink Flat is a modern two-bedroom apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
+description: The Old Clink Flat is a two-bedroom self-catering holiday apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
 priority: 0.7
 hero: flat-balcony
 heroquote: thank you for providing the perfect get-away
@@ -13,7 +13,7 @@ ctalink: book-holiday-home/?book=Flat
 > My dream place - I could live here forever!
 <cite>M Payne, Wells</cite>
 
-The Flat is a modern two-bedroom first floor apartment ideal for families or sharing with friends. It sleeps four people but can be adapted for six.
+The Flat is a comfortable two-bedroom self-catering holiday apartment ideal for families or sharing with friends. The accommodation sleeps four people but can be adapted for six.
 
 <figure>
 
@@ -21,18 +21,18 @@ The Flat is a modern two-bedroom first floor apartment ideal for families or sha
     <img src="[root]images/preview/flat-bedroom1-1.jpg" alt="The Flat first bedroom" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Flat comfortable and modern master bedroom</figcaption>
+  <figcaption>The Old Clink Flat comfortable master bedroom</figcaption>
 
 </figure>
 
 > All the worries and stress of normal life melted away.
 <cite>K &amp; R Masters, Newton Lonquille</cite>
 
-The Flat offers:
+The Flat holiday accommodation offers:
 
 * spectacular sea views
-* two bedrooms with double or twin beds
-* a bathroom with full-size bath, shower, WC and wash basin
+* two bedrooms with superking or twin beds
+* a bathroom with full-size bath with shower over, WC and wash basin
 * free wi-fi
 * a television and other entertainments
 * a kitchen with self-catering and laundry facilities

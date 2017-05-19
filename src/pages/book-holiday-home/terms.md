@@ -16,9 +16,9 @@ We hope everyone has an enjoyable and safe stay at The Old Clink.
 <cite>B & A, Bristol</cite>
 
 ## Tariff and availability
-The Old Clink apartments are available all year but must be booked in advance. Stays are normally booked from Saturday to Saturday but alternative days may be possible.
+The Old Clink apartments are available all year but must be booked in advance. Stays are normally booked from Saturday to Saturday but alternative days and short stays may be possible.
 
-Please [contact Sarah]([root]book-holiday-home/) to confirm your requirements and dates of stay. A non-refundable deposit will be requested to reserve your holiday with full payment on arrival.
+Please [contact Sarah]([root]book-holiday-home/) to confirm your requirements and dates of stay. A non-refundable deposit will be requested to reserve your holiday. The remaining balance is due six weeks prior to arrival.
 
 ## Cancellation
 We recommend you use travel cancellation insurance to cover the cost of any loss should unforeseen circumstances force you to cancel your holiday.
@@ -49,6 +49,8 @@ Smoking is not permitted in either apartment.
 
 > Beautiful spot. A place of healing. Will return for my next escape.
 <cite>L Smith, Sunninghill</cite>
+
+## Children
 
 ## Pets
 Pets are not permitted in either apartment. However, well behaved dogs are welcome to use alternative accommodation within the property when available. Please [contact us]([root]book-holiday-home/) to discuss your requirements.

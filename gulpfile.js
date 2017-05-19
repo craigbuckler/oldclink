@@ -19,7 +19,8 @@ const
     base        : __dirname + '/',
     lib         : __dirname + '/lib/',
     src         : 'src/',
-    build       : '/var/www/html/oldclink/'
+    build       : 'build/'
+//    build       : '/var/www/html/oldclink/'
   },
 
   // site meta data
@@ -344,7 +345,7 @@ const syncOpts = {
   files       : dir.build + '**/*',
   open        : false,
   notify      : false,
-  ghostMode   : false,
+  ghostMode   : true,
   ui: {
     port: 8001
   }

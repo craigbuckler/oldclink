@@ -1,5 +1,5 @@
 ---
-title: Holiday apartment 1 - the Annexe
+title: Budleigh Salterton holiday apartment 1 - the Annexe
 menu: Annexe
 description: The Old Clink Annexe offers a comfortable retreat for two people. The private terrace provides direct access to Budleigh Salterton beach.
 priority: 0.8
@@ -119,7 +119,7 @@ The promenade along the famous beach leads to the Otter estuary where you can ta
 > Great visit. Beautiful part of England. Superb weather. Hope to return.
 <cite>R &amp; J Block, Auckland, New Zealand</cite>
 
-_The Annexe has a steep stairway and is not suitable for the disabled, elderly or young children. [The Flat offers full access facilities]([root]apartment-2-flat/)._
+_The Annexe has a twisting stairway with handrail but is not suitable for the disabled, elderly or young children. However, [our other holiday apartment offers full access facilities]([root]apartment-2-flat/)._
 
 _Pets are not permitted. However, dogs are welcome to use alternative accommodation within the property. Please refer to our [terms &amp; conditions]([root]book-holiday-home/terms/)._
 

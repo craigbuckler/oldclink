@@ -13,7 +13,7 @@ ctalink: book-holiday-home/
 > A place to soothe the soul. We love it here.
 <cite>K &amp; R Masters, Newton Lonquille</cite>
 
-Budleigh Salterton is in an area of outstanding natural beauty on the Jurassic coast between Exmouth and Sidmouth in East Devon. The town has fewer than 6,000 residents but is less than half an hour's drive from Exeter, the capital of Devon.
+Budleigh Salterton is in an area of outstanding natural beauty on the Jurassic coast between Exmouth and Sidmouth in East Devon. The small town has fewer than 6,000 residents but is less than half an hour's drive from Exeter, the capital of Devon.
 
 The promenade along the famous pebble beach leads to the Otter estuary. Things to do in Budleigh Salterton:
 
@@ -22,7 +22,7 @@ The promenade along the famous pebble beach leads to the Otter estuary. Things t
 
 * take beautiful walks
 * stop in the secluded wildlife area
-* watch dolphins and otters
+* watch swans, dolphins and otters
 * visit the exclusive shops and galleries
 * discover [The Old Clink]([root]about-old-clink/) in the [Fairlynch Museum](http://fairlynchmuseum.uk/) opposite
 * dine in one of several quality cafes and restaurants
