@@ -1,19 +1,19 @@
 ---
-title: Hoiday apartment 2 - the Flat
+title: Budleigh Salterton accommodation apartment 2 - the Flat
 menu: Flat
-description: The Old Clink Flat is a modern two-bedroom apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
+description: The Old Clink Flat is a two-bedroom self-catering holiday apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
 priority: 0.7
 hero: flat-balcony
 heroquote: thank you for providing the perfect get-away
 herocite: J &amp; A Down, Okehampton
 ctatext: book the Flat
-ctalink: book-holiday-home/?book=Flat
+ctalink: book-accommodation/?book=Flat
 ---
 
 > My dream place - I could live here forever!
 <cite>M Payne, Wells</cite>
 
-The Flat is a modern two-bedroom first floor apartment ideal for families or sharing with friends. It sleeps four people but can be adapted for six.
+The Flat is a comfortable two-bedroom self-catering holiday apartment ideal for families or sharing with friends. The accommodation sleeps four people but can be adapted for six.
 
 <figure>
 
@@ -21,18 +21,18 @@ The Flat is a modern two-bedroom first floor apartment ideal for families or sha
     <img src="[root]images/preview/flat-bedroom1-1.jpg" alt="The Flat first bedroom" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Flat comfortable and modern master bedroom</figcaption>
+  <figcaption>The Old Clink Flat comfortable master bedroom</figcaption>
 
 </figure>
 
 > All the worries and stress of normal life melted away.
 <cite>K &amp; R Masters, Newton Lonquille</cite>
 
-The Flat offers:
+The Flat holiday accommodation offers:
 
 * spectacular sea views
-* two bedrooms with double or twin beds
-* a bathroom with full-size bath, shower, WC and wash basin
+* two bedrooms with superking or twin beds
+* a bathroom with full-size bath with shower over, WC and wash basin
 * free wi-fi
 * a television and other entertainments
 * a kitchen with self-catering and laundry facilities
@@ -97,7 +97,7 @@ The Flat offers:
     <img src="[root]images/preview/flat-view-1.jpg" alt="The Old Clink Flat lounge sea view" class="preview" />
   </a>
 
-  <figcaption>while listening to the sounds of the sea and watching the dolphins and otters</figcaption>
+  <figcaption>while listening to the sounds of the sea and watching the fish, dolphins and otters</figcaption>
 
 </figure>
 
@@ -108,13 +108,45 @@ The Flat is available all year. View the stunning sights of [Budleigh Salterton]
 
 The promenade along the famous beach leads to the Otter estuary where you can take beautiful walks in the secluded wildlife area.
 
+
+## Accommodation availability
+The Flat is available throughout the year but please [book early to avoid disappointment]([root]book-accommodation/?book=Flat).
+
+
+## Accommodation tariff
+The Flat accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for up to six occupants. _(US dollar prices are approximate according to recent exchange rate.)_
+
+|7 night tariff|UK sterling|US dollars|
+|-|-|
+|January - February|£85|$110|
+|March|£110|$145|
+|April - September|£125|$163|
+|October|£110|$145|
+|November - December|£85|$110|
+|Christmas &amp; New Year|£150|$195|
+
+
+For stays of less than seven days (two days minimum), the following nightly tariff applies:
+
+|2 night+ tariff|UK sterling|US dollars|
+|-|-|
+|January - February|£110|$145|
+|March|£135|$175|
+|April - September|£150|$195|
+|October|£135|$175|
+|November - December|£110|$145|
+|Christmas &amp; New Year|£150|$195|
+
+[Reserve Budleigh Salterton accommodation at The Old Clink Flat&hellip;]([root]book-accommodation/?book=Flat)
+
+
 ## Terms &amp; conditions
 
 _The first-floor flat has a stair lift and is therefore suitable for the disabled, elderly or young children._
 
-_Pets are not permitted. However, dogs are welcome to use alternative accommodation within the property. Please refer to our [terms &amp; conditions]([root]book-holiday-home/terms/)._
+_Pets are not permitted. However, dogs are welcome to use alternative accommodation within the property. Please refer to our [terms &amp; conditions]([root]book-accommodation/terms/)._
 
-[Book your next holiday at The Old Clink Flat&hellip;]([root]book-holiday-home/?book=Flat)
+[Book your next holiday in Budleigh Salterton&hellip;]([root]book-accommodation/?book=Flat)
 
 <figure>
 

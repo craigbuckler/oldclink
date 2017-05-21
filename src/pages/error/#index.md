@@ -8,7 +8,7 @@ heroquote: whoops - that's a 404 error!
 herocite: the web developer
 hero: cliff-fall
 ctatext: book holiday
-ctalink: book-holiday-home/
+ctalink: book-accommodation/
 ---
 
 Something has gone wrong and we can not find the page you are looking for? Sorry about that.
@@ -20,7 +20,7 @@ Please select an item from <a href="#mainmenu" class="noscroll">the menu</a> or 
 * [view the Annexe]([root]apartment-1-annexe/)
 * [view the Flat]([root]apartment-2-flat/)
 * [discover Budleigh Salterton]([root]about-budleigh-salterton/)
-* [find out how to get here]([root]book-holiday-home/travel/)
+* [find out how to get here]([root]book-accommodation/travel/)
 
 Or contact Sarah to book your next holiday&hellip;
 

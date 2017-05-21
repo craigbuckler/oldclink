@@ -19,7 +19,8 @@ const
     base        : __dirname + '/',
     lib         : __dirname + '/lib/',
     src         : 'src/',
-    build       : '/var/www/html/oldclink/'
+    build       : 'build/'
+    // build       : '/var/www/html/oldclink/'
   },
 
   // site meta data
@@ -134,7 +135,9 @@ const html = {
 
   sitemap: {
     hostname  : sitemeta.rootURL,
-    omitIndex : true
+    omitIndex : true,
+    changefreq: 'weekly',
+    lastmod   : new Date()
   },
 
   rssfeed: {

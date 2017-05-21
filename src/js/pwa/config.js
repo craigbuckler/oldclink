@@ -17,5 +17,5 @@ const
     '/* @echo rootpath */js/offlinepage.js'
   ].concat(offlineURL),
   installFilesDesirable = [
-    '/* @echo rootpath */book-holiday-home/'
+    '/* @echo rootpath */book-accommodation/'
   ];

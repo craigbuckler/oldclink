@@ -8,7 +8,7 @@ heroquote: I can't connect to the internet!
 herocite: your phone
 hero: telephone
 ctatext: book holiday
-ctalink: book-holiday-home/
+ctalink: book-accommodation/
 ---
 
 Please connect to the internet to access this page. Otherwise, please choose any of the following pages which are available offline&hellip;

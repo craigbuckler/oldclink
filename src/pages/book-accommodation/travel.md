@@ -1,13 +1,13 @@
 ---
-title: Budleigh Salterton travel directions
+title: Budleigh Salterton accommodation travel directions
 menu: Travel
-description: How to get to the Old Clink for your next vacation at Budleigh Salterton in East Devon.
+description: How to get to The Old Clink for your next vacation in Budleigh Salterton in East Devon.
 priority: 0.4
 hero: budleigh-beach-5
 heroquote: wonderful holiday and great accommodation at the edge of the sea
 herocite: J &amp; J Marr, Romsey
 ctatext: reserve apartment
-ctalink: book-holiday-home/
+ctalink: book-accommodation/
 ---
 
 <section class="vcard" itemscope="itemscope" itemtype="http://schema.org/Organization">
@@ -23,7 +23,7 @@ ctalink: book-holiday-home/
 
   <p><a href="tel:+44-1395-446453" class="icon phone tel" itemprop="telephone" title="call us">+44 (0) 1395 446 453</a></p>
 
-  <p><a href="[root]book-holiday-home/" class="icon email" itemprop="email" title="send us an email">info {at} theoldclink dot co dot uk</a></p>
+  <p><a href="[root]book-accommodation/" class="icon email" itemprop="email" title="send us an email">info {at} theoldclink dot co dot uk</a></p>
 
 </section>
 

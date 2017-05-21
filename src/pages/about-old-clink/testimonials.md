@@ -1,16 +1,16 @@
 ---
-title: The Old Clink customer feedback &amp; testimonials
+title: The Old Clink accommodation feedback &amp; testimonials
 menu: Testimonials
-description: Quotes and feedback from happy holidayers who stayed at The Old Clink in Budleigh Salterton, East Devon, UK.
+description: Quotes and feedback from happy holidayers who stayed at one of The Old Clink holiday accommodation apartments in Budleigh Salterton, East Devon, UK.
 priority: 0.5
 hero: annexe-terrace
 heroquote: A home of dreams. Lovely accommodation and a view to die for.
 herocite: L &amp; J Sherwin, Coventry
 ctatext: book now
-ctalink: book-holiday-home/
+ctalink: book-accommodation/
 ---
 
-The following is a small selection of testimonials and feedback from the hundreds of happy holidayers who have stayed at The Old Clink. Many return year after year once they have discovered the peaceful self-catering accommodation in Budleigh Salterton.
+The following is a small selection of testimonials and feedback from the hundreds of happy holidayers who have stayed at one of the The Old Clink apartments. Many return year after year once they have discovered the peaceful [self-catering accommodation in Budleigh Salterton]([root]about-old-clink/).
 
 <q>Excellent accommodation and hospitality is second to none.</q>
 <cite>Mr &amp; Mrs Atkinson, Halberton</cite>
@@ -99,9 +99,6 @@ The following is a small selection of testimonials and feedback from the hundred
 <q>Felt miles away from home. Magical.</q>
 <cite>S &amp; S, Exeter</cite>
 
-<q>Truly blessed with stunning weather and the opportunity to share the beautiful space you have created.</q>
-<cite>S &amp; S, Exeter</cite>
-
 <q>Lovely relaxing weekend. Not long enough!</q>
 <cite>L &amp; J Bichard, Southampton</cite>
 
@@ -155,6 +152,9 @@ The following is a small selection of testimonials and feedback from the hundred
 
 <q>A cosy retreat in which to relax and enjoy watching the world go by on the beach.</q>
 <cite>B &amp; D Teale, Kidderminster</cite>
+
+<q>Truly blessed with stunning weather and the opportunity to share the beautiful space you have created.</q>
+<cite>S &amp; S, Exeter</cite>
 
 <q>Very relaxing - we feel refreshed.</q>
 <cite>M &amp; J Ward, Bristol</cite>

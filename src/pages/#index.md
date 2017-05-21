@@ -1,19 +1,19 @@
 ---
-title: Welcome to The Old Clink, Budleigh Salterton
+title: The Old Clink, Budleigh Salterton Self-Catering Holiday Accommodation
 menu: Old Clink
-description: The Old Clink - independent self-catering holiday apartments in Budleigh Salterton, East Devon, UK.
+description: The Old Clink independent self-catering holiday accommodation apartments in Budleigh Salterton, East Devon, UK.
 priority: 1.0
 hero: budleigh-beach-2
 heroquote: two weeks contentment in a little piece of heaven
 herocite: R Stanton, Devon
 ctatext: book now
-ctalink: book-holiday-home/
+ctalink: book-accommodation/
 ---
 
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink provides two independent self-catering holiday apartments in the picturesque village of [Budleigh Salterton]([root]about-budleigh-salterton/).
+The Old Clink provides two independent self-catering holiday apartments in the picturesque town of [Budleigh Salterton]([root]about-budleigh-salterton/).
 
 <figure>
 
@@ -21,13 +21,13 @@ The Old Clink provides two independent self-catering holiday apartments in the p
     <img src="[root]images/preview/annexe-terrace-2.jpg" alt="view from The Old Clink Annexe terrace" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Annexe terrace with direct access to Budleigh beach</figcaption>
+  <figcaption>The Old Clink Annexe terrace. Access to Budleigh Salterton beach is a few steps away.</figcaption>
 
 </figure>
 
 ## Accommodation facilities
 
-Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the flat]([root]apartment-2-flat/):
+Two sea-view holiday accommodation apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the flat]([root]apartment-2-flat/):
 
 |Old Clink apartment|["the Annexe"]([root]apartment-1-annexe/)|["the flat"]([root]apartment-2-flat/)|
 |-|-|
@@ -53,7 +53,11 @@ Two sea-view apartments are available: [the Annexe]([root]apartment-1-annexe/) a
 |free parking nearby|yes|yes|
 |disabled access||yes|
 |availability|all year|all year|
+|per night (UK sterling)*|£65 - £105|£85 - £150|
+|per night (US dollars)*|$85 - $135|$110 - $195|
 ||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
+
+_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. US dollar amounts are approximate according to recent exchange rate._
 
 <figure>
 
@@ -76,5 +80,5 @@ For more details about our holiday apartments&hellip;
 * [view the Annexe apartment]([root]apartment-1-annexe/)
 * [view the Flat apartment]([root]apartment-2-flat/)
 * [discover Budleigh Salterton]([root]about-budleigh-salterton/)
-* [find out how to get here]([root]book-holiday-home/travel/)
-* [book your next holiday]([root]book-holiday-home/)
+* [find out how to get here]([root]book-accommodation/travel/)
+* [book your next holiday]([root]book-accommodation/)
