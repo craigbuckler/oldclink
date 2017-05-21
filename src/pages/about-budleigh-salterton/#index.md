@@ -1,7 +1,7 @@
 ---
-title: What to do in Budleigh Salterton, East Devon
+title: Things to do and places to see when staying in Budleigh Salterton
 menu: Budleigh
-description: The location, history and amenities when staying in Budleigh Salterton for your next holiday in East Devon, UK.
+description: The location, local towns, history and amenities when staying in Budleigh Salterton accommodation for your next holiday in East Devon, UK.
 priority: 0.6
 hero: budleigh-beach-1
 heroquote: all summers were like this when I was young
@@ -60,7 +60,7 @@ East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wi
     <img src="[root]images/preview/budleigh-street-1.jpg" alt="Budleigh Salterton Fore Street" class="preview" />
   </a>
 
-  <figcaption>explore the town and beach</figcaption>
+  <figcaption>explore Budleigh Salterton town and beach</figcaption>
 
 </figure>
 
@@ -70,29 +70,19 @@ East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wi
 ## Close to Budleigh Salterton
 The following locations and areas of interest are all within an hour of The Old Clink [holiday accommodation in Budleigh Salterton]([root]).
 
-### Woodbury Common
-[Woodbury Common](https://en.wikipedia.org/wiki/Woodbury_Common,_Devon) is a large area of heathland within ten minutes drive of Budleigh Salterton. The Common features:
-
-* views across the Exe estuary to Haldon Hill
-* [Woodbury Castle](http://www.britishexplorers.com/woodbury/castle.html), an Iron Age hill fort
-* [Woodbury Park Hotel](http://www.woodburypark.co.uk/) - with golf, spa and leisure facilities established by Nigel Mansell, the 1992 Formula 1 World Champion
-* training facilities for the Royal Marine Commando Training Centre at Lympstone
-
-> An experience which couldn't get any better.
-<cite>G &amp; J, London</cite>
-
 ### Exmouth town and beach
 [Exmouth](http://www.exmouth-guide.co.uk/) is one of the largest towns in Devon and is a short fifteen minute drive west of Budleigh Salterton. Alternatively, you can follow the coast or off-road footpaths to reach Exmouth within an hour. Exmouth offers:
 
 * a fabulous two-mile sandy beach with clean-water swimming
 * the start of the Jurassic coast cliffs
 * a diverse range of shops, pubs, cafes and restaurants
+* the water taxi to the [River Exe Cafe](http://www.riverexecafe.com/) ([as featured on TV](http://www.exmouthjournal.co.uk/news/river-exe-cafe-gets-prime-time-exposure-1-4922131))
 * water sports such as wind-surfing and kite-surfing
 * fantastic routes for walking and cycling
 * local music and food festivals
 
 ### Sidmouth town and beach
-[Sidmouth](http://www.visitsidmouth.co.uk/) is one of the most popular tourist towns in Devon and is a short fifteen minute drive west of Budleigh Salterton. Sidmouth offers:
+[Sidmouth](http://www.visitsidmouth.co.uk/) is one of the most popular tourist towns in Devon and is a short fifteen minute drive east of Budleigh Salterton. Sidmouth offers:
 
 * beautiful gardens and leisurely walks
 * a comprehensive range of shops, pubs, cafes and restaurants
@@ -101,6 +91,18 @@ The following locations and areas of interest are all within an hour of The Old 
 
 > My dream place - I could live here forever!
 <cite>M Payne, Wells</cite>
+
+### Woodbury Common
+[Woodbury Common](https://en.wikipedia.org/wiki/Woodbury_Common,_Devon) is a large area of heathland within ten minutes drive of Budleigh Salterton. The Common features:
+
+* breathtaking walks in unspoiled woodlands
+* stunning views across the Exe estuary to Haldon Hill
+* [Woodbury Castle](http://www.britishexplorers.com/woodbury/castle.html), an Iron Age hill fort
+* [Woodbury Park Hotel](http://www.woodburypark.co.uk/) - with golf, spa and leisure facilities established by Nigel Mansell, the 1992 Formula 1 World Champion
+* training facilities for the Royal Marine Commando Training Centre at Lympstone
+
+> An experience which couldn't get any better.
+<cite>G &amp; J, London</cite>
 
 ### The historic city of Exeter
 [Exeter](http://www.visitexeter.com/) is a cathedral city established by the Romans around 55AD. The city is thirty minutes drive from Budleigh Salterton with good road, bus and rail links. [Exeter Airport](https://www.exeter-airport.co.uk/) receives flights from within the UK and Europe.

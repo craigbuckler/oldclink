@@ -1,5 +1,5 @@
 ---
-title: Book holiday accommodation at The Old Clink
+title: Book Budleigh Salterton accommodation at The Old Clink
 menu: Contact
 description: How to book accommodation at the Old Clink for your next vacation in Budleigh Salterton, East Devon.
 priority: 0.5
@@ -21,4 +21,4 @@ to discuss:
 * the number of occupants
 * the start and end dates of your stay
 * other preferences or requirements
-* availability and tariffs.
+* availability and tariffs (see also [the Annexe]([root]apartment-1-annexe/#accommodation-tariff) and the [the Flat]([root]apartment-2-flat/#accommodation-tariff)).

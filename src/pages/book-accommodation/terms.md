@@ -19,7 +19,7 @@ We hope everyone has an enjoyable and safe stay at The Old Clink.
 The Old Clink apartments are available all year but please [book in advance]([root]book-accommodation/). Stays are normally booked from Saturday to Saturday but alternative days and short stays may be possible.
 
 ## Accommodation tariff
-Tariffs are charged according to the apartment and time of year. For more details, please refer to [the Annexe tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [Flat tariff]([root]apartment-2-flat/#accommodation-tariff).
+Tariffs are charged according to the apartment and time of year. For more details, please refer to the [Annexe holiday apartment tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [Flat holiday apartment tariff]([root]apartment-2-flat/#accommodation-tariff).
 
 Please [contact Sarah]([root]book-accommodation/) to confirm your requirements and dates of stay. A non-refundable deposit is requested to reserve your accommodation. The remaining balance is due six weeks prior to arrival.
 
