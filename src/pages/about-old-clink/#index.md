@@ -6,8 +6,8 @@ priority: 0.9
 hero: the-old-clink-1
 heroquote: Perfect accommodation. Perfect weather. Perfect holiday.
 herocite: B &amp; A, Bristol
-ctatext: book now
-ctalink: book-holiday-home/
+ctatext: book your stay
+ctalink: book-accommodation/
 ---
 
 The Old Clink is one of the oldest buildings in East Devon. During the past few hundred years it has been a prison, an inn, a bank, a police station and even a smugglers den. The building's rich history can be discovered in the [Fairlynch Museum](http://fairlynchmuseum.uk/) opposite.
@@ -15,7 +15,7 @@ The Old Clink is one of the oldest buildings in East Devon. During the past few 
 > A quiet and dreamy sanctuary. Set apart and special.
 <cite>D &amp; J Dean</cite>
 
-Now a relaxing retreat, The Old Clink has been home to the same family since 1953. [The Annexe]([root]apartment-1-annexe/) has been a popular self-catering holiday apartment since 2007. [The second Flat]([root]apartment-2-flat/) became available in 2017 and provides a comfortable two-bedroom holiday apartment for families and groups of up to six people. [View our customer testimonials...]([root]about-old-clink/testimonials/)
+Now a relaxing retreat for tourists seeking Budleigh Salterton accommodation, The Old Clink has been home to the same family since 1953. [The Annexe]([root]apartment-1-annexe/) has been a popular self-catering holiday apartment since 2007. [The second Flat]([root]apartment-2-flat/) became available in 2017 and provides a comfortable two-bedroom holiday apartment for families and groups of up to six people. [View our customer testimonials...]([root]about-old-clink/testimonials/)
 
 <figure>
 
@@ -47,7 +47,7 @@ Both Old Clink apartments offer unparalleled, uninterrupted sea views. Direct ac
 > All the worries and stress of normal life melted away.
 <cite>K &amp; R Masters, Newton Lonquille</cite>
 
-The Old Clink offers a unique opportunity to escape. Those who stay leave feeling relaxed and rejuvenated. [Book your next holiday today...]([root]book-holiday-home/)
+The Old Clink offers a unique opportunity to escape. Those who stay leave feeling relaxed and rejuvenated. [Book your next Old Clink holiday today...]([root]book-accommodation/)
 
 <figure>
 
@@ -55,6 +55,6 @@ The Old Clink offers a unique opportunity to escape. Those who stay leave feelin
     <img src="[root]images/preview/old-clink-1.jpg" alt="The Old Clink door" class="preview" />
   </a>
 
-  <figcaption>Welcome to The Old Clink, Budleigh Salterton, East Devon</figcaption>
+  <figcaption>Welcome to The Old Clink, Budleigh Salterton holiday accommodation</figcaption>
 
 </figure>

@@ -1,6 +1,6 @@
 {
   "name": "oldclink",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Old Clink website generator",
   "author": "The Old Clink",
   "main": "gulp build",
@@ -8,7 +8,7 @@
     "name": "The Old Clink",
     "shortname": "Old Clink",
     "description": "Budleigh Salterton self-catering holiday apartments",
-    "keywords": "clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, break, beach, seaside, coastal, apartment, home, direct, private, independent, let, lets, letting, rental, self catering, book, booking, hire",
+    "keywords": "clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, break, beach, seaside, coastal, apartment, accommodation, tour, tourist, home, direct, private, independent, let, lets, letting, rental, self catering, book, booking, hire",
     "company": "The Old Clink",
     "font": "https://fonts.googleapis.com/css?family=Jim+Nightshade|Raleway:300,300i,600&subset=latin",
     "twitter": "",
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "7.0.1",
+    "autoprefixer": "7.1.1",
     "css-mqpacker": "6.0.0",
     "cssnano": "3.10.0",
     "del": "2.2.2",
@@ -62,6 +62,6 @@
     "vinyl-ftp": "0.6.0"
   },
   "devDependencies": {
-    "browser-sync": "2.18.8"
+    "browser-sync": "2.18.11"
   }
 }

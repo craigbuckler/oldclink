@@ -5,9 +5,9 @@ $url = '';
 
 $pAbout = 'about-old-clink/';
 $pBS = 'about-budleigh-salterton/';
-$pBook = 'book-holiday-home/';
-$pDir = 'book-holiday-home/travel/';
-$pTerms = 'book-holiday-home/terms/';
+$pBook = 'book-accommodation/';
+$pDir = $pBook . 'travel/';
+$pTerms = $pBook . 'terms/';
 
 // redirects
 $redir = array(

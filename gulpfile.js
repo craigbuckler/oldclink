@@ -20,7 +20,7 @@ const
     lib         : __dirname + '/lib/',
     src         : 'src/',
     build       : 'build/'
-//    build       : '/var/www/html/oldclink/'
+    // build       : '/var/www/html/oldclink/'
   },
 
   // site meta data
@@ -135,7 +135,9 @@ const html = {
 
   sitemap: {
     hostname  : sitemeta.rootURL,
-    omitIndex : true
+    omitIndex : true,
+    changefreq: 'weekly',
+    lastmod   : new Date()
   },
 
   rssfeed: {
@@ -345,7 +347,7 @@ const syncOpts = {
   files       : dir.build + '**/*',
   open        : false,
   notify      : false,
-  ghostMode   : true,
+  ghostMode   : false,
   ui: {
     port: 8001
   }
