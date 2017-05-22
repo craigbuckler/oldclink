@@ -63,8 +63,8 @@ The Flat holiday accommodation offers:
 
 <figure>
 
-  <a href="[root]images/flat-hatch-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/flat-hatch-1.jpg" alt="The Old Clink Flat kitchen to dining room hatch" class="preview" />
+  <a href="[root]images/flat-dining-2.jpg" class="progressive replace">
+    <img src="[root]images/preview/flat-dining-2.jpg" alt="The Old Clink Flat dining room and kitchen hatch" class="preview" />
   </a>
 
   <figcaption>eat freshly-caught fish bought directly from the boat outside your door</figcaption>
