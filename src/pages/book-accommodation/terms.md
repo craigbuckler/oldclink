@@ -1,8 +1,8 @@
 ---
-title: Apartment accommodation let terms &amp; conditions
+title: The Old Clink accommodation terms &amp; conditions
 menu: T&amp;Cs
 description: Terms and conditions for staying at the Annexe or the Flat apartments at The Old Clink, Budleigh Salterton, East Devon.
-priority: 0.1
+priority: 0.3
 hero: budleigh-beach-4
 heroquote: excellent accommodation and hospitality is second to none
 herocite: Mr &amp; Mrs Atkinson, Halberton
@@ -15,11 +15,11 @@ We hope everyone has an enjoyable and safe stay at The Old Clink.
 > Our ninth year at The Old Clink. It feels like a second home to us.
 <cite>B & A, Bristol</cite>
 
-## Accommodation availability
-The Old Clink apartments are available all year but please [book in advance]([root]book-accommodation/). Stays are normally booked from Saturday to Saturday but alternative days and short stays may be possible.
+## Apartment availability
+The Old Clink apartments are available all year but please [book in advance]([root]book-accommodation/) to avoid disappointment. Holiday stays are normally booked from Saturday to Saturday but alternative days and short stays may be possible.
 
 ## Accommodation tariff
-Tariffs are charged according to the apartment and time of year. For more details, please refer to the [Annexe holiday apartment tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [Flat holiday apartment tariff]([root]apartment-2-flat/#accommodation-tariff).
+Quoted prices are per apartment - not per person. Tariffs are charged according to the apartment and time of year. For more details, please refer to the [Annexe holiday apartment tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [Flat holiday apartment tariff]([root]apartment-2-flat/#accommodation-tariff).
 
 Please [contact Sarah]([root]book-accommodation/) to confirm your requirements and dates of stay. A non-refundable deposit is requested to reserve your accommodation. The remaining balance is due six weeks prior to arrival.
 
@@ -45,6 +45,19 @@ Children of any age are welcome to stay in [the Flat]([root]apartment-2-flat/).
 [The Annexe]([root]apartment-1-annexe/) has a twisting stairway and sea-view balcony; it is not suitable for children between the ages of two and twelve.
 
 Travel cots are available for young children.
+
+## Disabled access
+[The Flat]([root]apartment-2-flat/) is recommended for disabled and elderly occupants. The large hallway can be used for storing wheelchairs and other mobility equipment. A stair lift leads to the upper landing which provides access to all rooms. [Please contact us to discuss your disability requirements]([root]book-accommodation/).
+
+<figure>
+
+  <a href="[root]images/flat-stairs-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/flat-stairs-1.jpg" alt="The Old Clink Flat stair lift" class="preview" />
+  </a>
+
+  <figcaption>the flat's stair lift allows the disabled and elderly to enjoy a stay in Budleigh Salterton</figcaption>
+
+</figure>
 
 ## Cleaning
 Apartments are cleaned thoroughly between each let.

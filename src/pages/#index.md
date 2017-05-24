@@ -21,18 +21,18 @@ The Old Clink provides two independent self-catering holiday apartments in the p
     <img src="[root]images/preview/annexe-terrace-2.jpg" alt="view from The Old Clink Annexe terrace" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Annexe terrace. Access to Budleigh Salterton beach is a few steps away.</figcaption>
+  <figcaption>The Old Clink Annexe terrace offers stunning coastal views with Budleigh Salterton's famous pebble beach just a few steps away</figcaption>
 
 </figure>
 
 ## Accommodation facilities
 
-Two sea-view holiday accommodation apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the flat]([root]apartment-2-flat/):
+Two sea-view holiday accommodation apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the Flat]([root]apartment-2-flat/):
 
-|Old Clink apartment|["the Annexe"]([root]apartment-1-annexe/)|["the flat"]([root]apartment-2-flat/)|
+|Old Clink apartment|[the Annexe]([root]apartment-1-annexe/)|[the Flat]([root]apartment-2-flat/)|
 |-|-|
 |spectacular sea views|yes|yes|
-|occupancy|2|4 (up to 6)|
+|maximum occupancy|2|4 (up to 6)|
 |bedrooms|1|2|
 |bed type|double or twin|superking or twin|
 |kitchen|yes|yes|
@@ -57,7 +57,7 @@ Two sea-view holiday accommodation apartments are available: [the Annexe]([root]
 |per night (US dollars)*|$85 - $135|$110 - $195|
 ||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
 
-_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. US dollar amounts are approximate according to recent exchange rate._
+_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. US dollar amounts are approximate according to recent exchange rate. View the apartment pages for further pricing details._
 
 <figure>
 
@@ -65,7 +65,7 @@ _* The tariff is per accommodation property per night (NOT per person) and is in
     <img src="[root]images/preview/budleigh-beach-1.jpg" alt="Budleigh beach" class="preview" />
   </a>
 
-  <figcaption>the famous pebble beach at Budleigh Salterton, East Devon</figcaption>
+  <figcaption>buy freshly-caught fish direct from the boat outside your holiday home in Budleigh Salterton, East Devon</figcaption>
 
 </figure>
 
