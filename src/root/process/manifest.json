@@ -6,7 +6,7 @@
 	"description"				: "/* @echo description */",
 	"scope"							: "/",
 	"start_url"					: "/",
-	"display"						: "minimal-ui",
+	"display"						: "standalone",
 	"theme_color"				: "/* @echo themeColor */",
 	"background_color"	: "/* @echo themeColor */",
 	"icons": [

@@ -79,8 +79,8 @@ The Annexe offers:
 
 <figure>
 
-  <a href="[root]images/annexe-terrace-2.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-terrace-2.jpg" alt="The Old Clink Annexe private terrace" class="preview" />
+  <a href="[root]images/annexe-terrace-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/annexe-terrace-1.jpg" alt="The Old Clink Annexe private terrace" class="preview" />
   </a>
 
   <figcaption>private terrace with direct access to Budleigh Salterton's pebble beach</figcaption>

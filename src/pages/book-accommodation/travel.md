@@ -1,5 +1,5 @@
 ---
-title: Budleigh Salterton accommodation travel directions
+title: Budleigh Salterton holiday home travel directions
 menu: Travel
 description: How to get to The Old Clink for your next vacation in Budleigh Salterton in East Devon.
 priority: 0.4
@@ -30,13 +30,15 @@ ctalink: book-accommodation/
 Budleigh Salterton is ten miles south-east of the M5 Exeter junction 30. [Directions from the M5](https://www.google.co.uk/maps/dir/M5+Services,+Exeter/38+Fore+St,+Budleigh+Salterton+EX9+6NJ/@50.670295,-3.4526287,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x486da3d7fc3b6b77:0x8f90d1d3d6f3d24f!2m2!1d-3.460802!2d50.711403!1m5!1m1!1s0x486d758bcedd2243:0x2e89eb946c9d9c80!2m2!1d-3.3220826!2d50.6291246):
 
 1. Take the A376 exit to Sidmouth and Exmouth.
-1. At Clyst St Mary roundabout, take the third exit on to the A376.
+1. At Clyst St Mary roundabout, take the third exit on to the A376 to Exmouth.
 1. At Clyst St George roundabout, take the first exit on to the B3179 Woodbury Road.
 1. Drive through Woodbury village. Take the next right toward Exmouth.
 1. Turn right on to the B3180. Follow the road on to the B3179 toward Budleigh Salterton.
 1. Take the first exit on Knowle Hill roundabout to the B3178.
 1. Continue into Budleigh Salterton and pass the shops.
 1. The Old Clink is on the right just before you reach the beach promenade.
+
+Larger vehicles such as coaches and camper vans are advised to drive to Exmouth then follow Salterton Road to Budleigh Salterton.
 
 [View directions from Honiton](https://www.google.co.uk/maps/dir/Honiton/38+Fore+St,+Budleigh+Salterton+EX9+6NJ/@50.7143731,-3.3305648,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x486d850a1a2bb67d:0xa9c7adfb056a7170!2m2!1d-3.188683!2d50.799468!1m5!1m1!1s0x486d758bcedd2243:0x2e89eb946c9d9c80!2m2!1d-3.3220826!2d50.6291246) if you are travelling from the London A303 direction.
 
@@ -50,4 +52,4 @@ The [Stagecoach 157 bus service leaves from Imperial Road](https://www.google.co
 Taxis are available from the station and around the town. Budleigh Salterton is a 10 minute journey.
 
 ## Air
-[Exeter Airport](https://www.exeter-airport.co.uk/) receives flights from within the UK and Europe and is a short distance from Exeter. [Budleigh Salterton is a 25 minute drive away](https://www.google.co.uk/maps/dir/Exeter+Airport,+Exeter/38+Fore+St,+Budleigh+Salterton+EX9+6NJ/@50.6817949,-3.4535667,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x486da212f1b571b1:0x655e1e29a5e71cd0!2m2!1d-3.4149805!2d50.7346205!1m5!1m1!1s0x486d758bcedd2243:0x2e89eb946c9d9c80!2m2!1d-3.3220826!2d50.6291246!3e0).
+[Exeter Airport](https://www.exeter-airport.co.uk/) receives flights from within the UK and Europe and is a short distance from Exeter. Car hire is available and [Budleigh Salterton is a 25 minute drive away](https://www.google.co.uk/maps/dir/Exeter+Airport,+Exeter/38+Fore+St,+Budleigh+Salterton+EX9+6NJ/@50.6817949,-3.4535667,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x486da212f1b571b1:0x655e1e29a5e71cd0!2m2!1d-3.4149805!2d50.7346205!1m5!1m1!1s0x486d758bcedd2243:0x2e89eb946c9d9c80!2m2!1d-3.3220826!2d50.6291246!3e0).
