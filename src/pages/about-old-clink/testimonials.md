@@ -1,7 +1,7 @@
 ---
 title: The Old Clink accommodation feedback &amp; testimonials
 menu: Testimonials
-description: Quotes and feedback from happy holidayers who stayed at one of The Old Clink holiday accommodation apartments in Budleigh Salterton, East Devon, UK.
+description: Quotes and feedback from happy holidayers who have stayed at one of The Old Clink rental apartments on Budleigh Salterton beach.
 priority: 0.5
 hero: annexe-terrace
 heroquote: A home of dreams. Lovely accommodation and a view to die for.

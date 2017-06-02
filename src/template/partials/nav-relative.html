@@ -17,7 +17,7 @@
       rel += '<li class="link-parent"><a href="' + root + navrel.parent.url + '" class="icon arrow-up2">' + navrel.parent.title + '</a></li>';
     }
 
-    rel = '<nav class="relative"><ul><li class="link-top"><a href="#logo"  class="icon arrow-up">top</a></li>' + rel + '</ul></nav>';
+    if (rel) rel = '<nav class="relative"><ul>' + rel + '</ul></nav>';
 
   }
 %>

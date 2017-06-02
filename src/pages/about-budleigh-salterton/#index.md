@@ -1,7 +1,7 @@
 ---
-title: Things to do and places to see when staying in Budleigh Salterton
+title: Things to do in Budleigh Salterton
 menu: Budleigh
-description: The location, local towns, history and amenities when staying in Budleigh Salterton accommodation for your next holiday in East Devon, UK.
+description: The location, local towns, history and amenities available when staying in Budleigh Salterton for your next holiday.
 priority: 0.6
 hero: budleigh-beach-1
 heroquote: all summers were like this when I was young
@@ -56,8 +56,8 @@ East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wi
 
 <figure>
 
-  <a href="[root]images/budleigh-street-1.jpg" class="progressive replace">
-    <img src="[root]images/preview/budleigh-street-1.jpg" alt="Budleigh Salterton Fore Street" class="preview" />
+  <a href="[root]images/budleigh-street-2.jpg" class="progressive replace">
+    <img src="[root]images/preview/budleigh-street-2.jpg" alt="Budleigh Salterton Fore Street view of beach" class="preview" />
   </a>
 
   <figcaption>explore Budleigh Salterton town and beach</figcaption>

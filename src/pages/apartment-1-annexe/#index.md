@@ -1,7 +1,7 @@
 ---
-title: Budleigh Salterton accommodation apartment 1 - the Annexe
+title: Budleigh Salterton self-catering apartment 1 - the Annexe
 menu: Annexe
-description: The Old Clink Annexe offers a comfortable retreat for two people. The private terrace provides direct access to Budleigh Salterton beach.
+description: The Old Clink Annexe offers comfortable self-catering accommodation for one or two people. The private terrace provides direct access to Budleigh Salterton beach.
 priority: 0.8
 hero: annexe-window
 heroquote: feeling re-balanced, restored and rested
@@ -14,6 +14,8 @@ ctalink: book-accommodation/?book=Annexe
 <cite>B &amp; D King-Robinson, Zurich, Switzerland</cite>
 
 The Annexe's top-floor bedroom is a comfortable haven. Relax in front of the French windows open to the sound of the sea.
+
+Prices start from just £65 per night - [view the holiday rental tariff&hellip;](#accommodation-tariff)
 
 <figure>
 

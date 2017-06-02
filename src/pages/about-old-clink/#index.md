@@ -10,7 +10,7 @@ ctatext: book your stay
 ctalink: book-accommodation/
 ---
 
-The Old Clink is one of the oldest buildings in East Devon. During the past few hundred years it has been a prison, an inn, a bank, a police station and even a smugglers den. The building's rich history can be discovered in the [Fairlynch Museum](http://fairlynchmuseum.uk/) opposite.
+The Old Clink is one of the oldest buildings in East Devon. During the past few hundred years it has been a prison, an inn, a bank, a police station and even a smugglers den. The building's rich history can be discovered in the [Fairlynch Museum](http://fairlynchmuseum.uk/) opposite the holiday apartments.
 
 > A quiet and dreamy sanctuary. Set apart and special.
 <cite>D &amp; J Dean</cite>
@@ -23,14 +23,14 @@ Now a relaxing retreat for tourists seeking Budleigh Salterton accommodation, Th
     <img src="[root]images/preview/flat-balcony-1.jpg" alt="The Old Clink sea view" class="preview" />
   </a>
 
-  <figcaption>The Old Clink evening sea view</figcaption>
+  <figcaption>The Old Clink evening sea view over Budleigh beach</figcaption>
 
 </figure>
 
 > The perfect place for peace and relaxation.
 <cite>A &amp; D Reynolds, Belbroughton</cite>
 
-The Old Clink is the last remaining independent holiday accommodation in Budleigh Salterton. The famous, but unspoiled East Devon town has no hotels and just a handful of bed and breakfast options a few minutes away from the beach.
+The Old Clink is one of the last remaining independent holiday rentals in Budleigh Salterton. The famous, but unspoiled East Devon town has no hotels and just a handful of bed and breakfast options located a few minutes walk from the beach.
 
 Both Old Clink apartments offer unparalleled, uninterrupted sea views. Direct access to the 5km pebble beach is just three steps away.
 

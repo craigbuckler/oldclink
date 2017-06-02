@@ -1,5 +1,5 @@
 ---
-title: The Old Clink, Budleigh Salterton Self-Catering Holiday Accommodation
+title: The Old Clink, Budleigh Salterton self-catering holiday accommodation
 menu: Old Clink
 description: The Old Clink independent self-catering holiday accommodation apartments in Budleigh Salterton, East Devon, UK.
 priority: 1.0
@@ -13,15 +13,15 @@ ctalink: book-accommodation/
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink provides two independent self-catering holiday apartments in the picturesque town of [Budleigh Salterton]([root]about-budleigh-salterton/).
+The Old Clink provides two independent self-catering holiday apartments in the picturesque town of [Budleigh Salterton]([root]about-budleigh-salterton/). We are [taking bookings now]([root]book-accommodation/).
 
 <figure>
 
-  <a href="[root]images/annexe-terrace-2.jpg" class="progressive replace">
-    <img src="[root]images/preview/annexe-terrace-2.jpg" alt="view from The Old Clink Annexe terrace" class="preview" />
+  <a href="[root]images/annexe-view-1.jpg" class="progressive replace">
+    <img src="[root]images/preview/annexe-view-1.jpg" alt="view from The Old Clink Annexe balcony" class="preview" />
   </a>
 
-  <figcaption>The Old Clink Annexe terrace offers stunning coastal views with Budleigh Salterton's famous pebble beach just a few steps away</figcaption>
+  <figcaption>The Old Clink Annexe offers stunning coastal views of Budleigh Salterton's famous pebble beach which is just a few steps away</figcaption>
 
 </figure>
 
@@ -75,10 +75,10 @@ For more details about our holiday apartments&hellip;
 > Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
 <cite>Mr &amp; Mrs Layman, Oxford</cite>
 
-* [discover The Old Clink]([root]about-old-clink/)
-* [read what others say]([root]about-old-clink/testimonials/)
-* [view the Annexe apartment]([root]apartment-1-annexe/)
-* [view the Flat apartment]([root]apartment-2-flat/)
-* [discover Budleigh Salterton]([root]about-budleigh-salterton/)
-* [find out how to get here]([root]book-accommodation/travel/)
-* [book your next holiday]([root]book-accommodation/)
+* [discover the historic Old Clink]([root]about-old-clink/)
+* [read our customer feedback]([root]about-old-clink/testimonials/)
+* [view the Annexe holiday apartment]([root]apartment-1-annexe/)
+* [view the Flat holiday apartment]([root]apartment-2-flat/)
+* [what to do in Budleigh Salterton]([root]about-budleigh-salterton/)
+* [Budleigh Salterton travel directions]([root]book-accommodation/travel/)
+* [book your holiday accommodation]([root]book-accommodation/)
