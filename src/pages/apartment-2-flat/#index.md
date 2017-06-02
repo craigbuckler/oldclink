@@ -1,5 +1,5 @@
 ---
-title: Budleigh Salterton accommodation apartment 2 - the Flat
+title: Budleigh Salterton self-catering apartment 2 - the Flat
 menu: Flat
 description: The Old Clink Flat is a two-bedroom self-catering holiday apartment sleeping up to six people. The balcony overlooks Budleigh Salterton beach.
 priority: 0.7
@@ -14,6 +14,8 @@ ctalink: book-accommodation/?book=Flat
 <cite>M Payne, Wells</cite>
 
 The Flat is a comfortable two-bedroom self-catering holiday apartment ideal for families or sharing with friends. The accommodation sleeps four people but can be adapted for six.
+
+Prices start from just £110 per night - [view the holiday rental tariff&hellip;](#accommodation-tariff)
 
 <figure>
 

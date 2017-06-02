@@ -8,7 +8,7 @@ heroquote: love the accommodation, the view, the peace, the tranquility and the 
 herocite: J &amp; J Gates, Halberton
 ---
 
-To book accommodation at The Old Clink in Budleigh Salterton, please contact Sarah directly:
+To book your stay at The Old Clink in Budleigh Salterton, please contact Sarah directly:
 
 <ul class="book">
 <li><a href="tel:+44-1395-446453" class="icon phone">+44 1395 446 453</a></li>
@@ -17,8 +17,8 @@ To book accommodation at The Old Clink in Budleigh Salterton, please contact Sar
 
 to discuss:
 
-* your preference for [the Annexe]([root]apartment-1-annexe/) or [the Flat]([root]apartment-2-flat/)
+* your preference for [the Annexe]([root]apartment-1-annexe/) or [the Flat]([root]apartment-2-flat/) apartment
 * the number of occupants
 * the start and end dates of your stay
 * other preferences or requirements
-* availability and tariffs (see also [the Annexe]([root]apartment-1-annexe/#accommodation-tariff) and the [the Flat]([root]apartment-2-flat/#accommodation-tariff)).
+* availability and charges (see also [the Annexe tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [the Flat tariff]([root]apartment-2-flat/#accommodation-tariff)).

@@ -11,7 +11,9 @@ ctatext: book holiday
 ctalink: book-accommodation/
 ---
 
-Please connect to the internet to access this page. Otherwise, please choose any of the following pages which are available offline&hellip;
+You are not currently connected to the internet so this page is not available.
+
+Please connect or choose any of the following pages which are available to read offline&hellip;
 
 <ul id="cachedpagelist"></ul>
 

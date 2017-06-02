@@ -1,7 +1,7 @@
 ---
-title: Budleigh Salterton holiday home travel directions
+title: Budleigh Salterton travel directions
 menu: Travel
-description: How to get to The Old Clink for your next vacation in Budleigh Salterton in East Devon.
+description: How to get to The Old Clink for your next vacation in Budleigh Salterton.
 priority: 0.4
 hero: budleigh-beach-5
 heroquote: wonderful holiday and great accommodation at the edge of the sea

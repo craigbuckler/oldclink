@@ -1,7 +1,7 @@
 ---
 title: The Old Clink accommodation terms &amp; conditions
 menu: T&amp;Cs
-description: Terms and conditions for staying at the Annexe or the Flat apartments at The Old Clink, Budleigh Salterton, East Devon.
+description: Terms and conditions for staying at The Old Clink holiday apartments in Budleigh Salterton.
 priority: 0.3
 hero: budleigh-beach-4
 heroquote: excellent accommodation and hospitality is second to none
@@ -10,7 +10,7 @@ ctatext: book now
 ctalink: book-accommodation/
 ---
 
-We hope everyone has an enjoyable and safe stay at The Old Clink.
+We hope everyone has a safe and enjoyable stay at The Old Clink.
 
 > Our ninth year at The Old Clink. It feels like a second home to us.
 <cite>B & A, Bristol</cite>
@@ -87,3 +87,6 @@ However, well behaved dogs are welcome to use alternative accommodation within t
 
 ## Complaints
 We hope you enjoy your stay. In the unlikely event of dissatisfaction with the property, please contact us immediately so we have an opportunity to rectify the problem.
+
+## Other queries?
+Please [contact Sarah]([root]book-accommodation/) if you have further questions about The Old Clink self-catering holiday accommodation or Budleigh Salterton.
