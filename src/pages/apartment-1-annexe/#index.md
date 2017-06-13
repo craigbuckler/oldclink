@@ -122,28 +122,28 @@ The Annexe is available throughout the year but please [book early to avoid disa
 
 
 ## Accommodation tariff
-The Annexe accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for either one or two occupants. _(US dollar prices are approximate according to recent exchange rate.)_
+The Annexe accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for either one or two occupants. _(Euro and US dollar prices are approximate according to recent exchange rates.)_
 
-|7 night tariff|UK sterling|US dollars|
-|-|-|
-|January - February|£65|$85|
-|March|£75|$98|
-|April - September|£85|$110|
-|October|£75|$98|
-|November - December|£65|$85|
-|Christmas &amp; New Year|£105|$136|
+|7 night tariff|UK sterling|Euros|US dollars|
+|-|-|-|
+|January - February|£65|€75|$85|
+|March|£75|€86|$98|
+|April - September|£85|€100|$110|
+|October|£75|€86|$98|
+|November - December|£65|€75|$85|
+|Christmas &amp; New Year|£105|€121|$136|
 
 
 For stays of less than seven days (two days minimum), the following nightly tariff applies:
 
-|2 night+ tariff|UK sterling|US dollars|
-|-|-|
-|January - February|£80|$105|
-|March|£90|$117|
-|April - September|£100|$130|
-|October|£90|$117|
-|November - December|£80|$105|
-|Christmas &amp; New Year|£105|$136|
+|2 night+ tariff|UK sterling|Euros|US dollars|
+|-|-|-|
+|January - February|£80|€92|$105|
+|March|£90|€104|$117|
+|April - September|£100|€115|$130|
+|October|£90|€104|$117|
+|November - December|£80|€92|$105|
+|Christmas &amp; New Year|£105|€121|$136|
 
 [Reserve Budleigh Salterton accommodation at The Old Clink Annexe&hellip;]([root]book-accommodation/?book=Annexe)
 

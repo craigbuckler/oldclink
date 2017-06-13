@@ -54,10 +54,11 @@ Two sea-view holiday accommodation apartments are available: [the Annexe]([root]
 |disabled access||yes|
 |availability|all year|all year|
 |per night (UK sterling)*|£65 - £105|£85 - £150|
+|per night (Euros)*|€75 - €120|€100 - €170|
 |per night (US dollars)*|$85 - $135|$110 - $195|
 ||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
 
-_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. US dollar amounts are approximate according to recent exchange rate. View the apartment pages for further pricing details._
+_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. Euro and US dollar prices are approximate according to recent exchange rates. View the [Annexe]([root]apartment-1-annexe/#accommodation-tariff) or [Flat]([root]apartment-2-flat/#accommodation-tariff) apartment pages for further pricing details._
 
 <figure>
 

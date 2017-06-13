@@ -116,28 +116,28 @@ The Flat is available throughout the year but please [book early to avoid disapp
 
 
 ## Accommodation tariff
-The Flat accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for up to six occupants. _(US dollar prices are approximate according to recent exchange rate.)_
+The Flat accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for up to six occupants. _(Euro and US dollar prices are approximate according to recent exchange rates.)_
 
-|7 night tariff|UK sterling|US dollars|
+|7 night tariff|UK sterling|Euros|US dollars|
 |-|-|
-|January - February|£85|$110|
-|March|£110|$145|
-|April - September|£125|$163|
-|October|£110|$145|
-|November - December|£85|$110|
-|Christmas &amp; New Year|£150|$195|
+|January - February|£85|€100|$110|
+|March|£110|€127|$145|
+|April - September|£125|€144|$163|
+|October|£110|€127|$145|
+|November - December|£85|€100|$110|
+|Christmas &amp; New Year|£150|€172|$195|
 
 
 For stays of less than seven days (two days minimum), the following nightly tariff applies:
 
-|2 night+ tariff|UK sterling|US dollars|
+|2 night+ tariff|UK sterling|Euros|US dollars|
 |-|-|
-|January - February|£110|$145|
-|March|£135|$175|
-|April - September|£150|$195|
-|October|£135|$175|
-|November - December|£110|$145|
-|Christmas &amp; New Year|£150|$195|
+|January - February|£110|€127|$145|
+|March|£135|€155|$175|
+|April - September|£150|€172|$195|
+|October|£135|€155|$175|
+|November - December|£110|€127|$145|
+|Christmas &amp; New Year|£150|€172|$195|
 
 [Reserve Budleigh Salterton accommodation at The Old Clink Flat&hellip;]([root]book-accommodation/?book=Flat)
 
