@@ -13,7 +13,9 @@ ctalink: book-accommodation/
 > Three little words: Heaven on Earth
 <cite>Mr &amp; Mrs Steele</cite>
 
-The Old Clink provides two independent self-catering holiday apartments in the picturesque town of [Budleigh Salterton]([root]about-budleigh-salterton/). We are [taking bookings now]([root]book-accommodation/).
+The Old Clink provides two independent self-catering holiday apartments in the picturesque town of [Budleigh Salterton]([root]about-budleigh-salterton/).
+
+We are [taking bookings now]([root]book-accommodation/) for summer, winter, Christmas and New Year breaks in [the Annexe (up to 2 people)]([root]apartment-1-annexe/) and [the Flat (up to 6 people)]([root]apartment-2-flat/).
 
 <figure>
 
@@ -27,7 +29,10 @@ The Old Clink provides two independent self-catering holiday apartments in the p
 
 ## Accommodation facilities
 
-Two sea-view holiday accommodation apartments are available: [the Annexe]([root]apartment-1-annexe/) and [the Flat]([root]apartment-2-flat/):
+Two sea-view holiday accommodation apartments are available:
+
+1. the [one-bedroom Annexe]([root]apartment-1-annexe/) - 1 or 2 people
+1. the [two-bedroom Flat]([root]apartment-2-flat/) - up to 6 people
 
 |Old Clink apartment|[the Annexe]([root]apartment-1-annexe/)|[the Flat]([root]apartment-2-flat/)|
 |-|-|
@@ -52,13 +57,13 @@ Two sea-view holiday accommodation apartments are available: [the Annexe]([root]
 |non-smoking|yes|yes|
 |free parking nearby|yes|yes|
 |disabled access||yes|
-|availability|all year|all year|
+|availability|[all year]([root]apartment-1-annexe/#accommodation-availability)|[all year]([root]apartment-2-flat/#accommodation-availability)|
 |per night (UK sterling)*|£65 - £105|£85 - £150|
 |per night (Euros)*|€75 - €120|€100 - €170|
 |per night (US dollars)*|$85 - $135|$110 - $195|
 ||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
 
-_* The tariff is per accommodation property per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. Euro and US dollar prices are approximate according to recent exchange rates. View the [Annexe]([root]apartment-1-annexe/#accommodation-tariff) or [Flat]([root]apartment-2-flat/#accommodation-tariff) apartment pages for further pricing details._
+_* The tariff is PER PROPERTY per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. Euro and US dollar prices are approximate according to recent exchange rates. View the [Annexe]([root]apartment-1-annexe/#accommodation-tariff) or [Flat]([root]apartment-2-flat/#accommodation-tariff) apartment pages for the full tariff and pricing details._
 
 <figure>
 
@@ -76,10 +81,10 @@ For more details about our holiday apartments&hellip;
 > Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
 <cite>Mr &amp; Mrs Layman, Oxford</cite>
 
-* [discover the historic Old Clink]([root]about-old-clink/)
-* [read our customer feedback]([root]about-old-clink/testimonials/)
 * [view the Annexe holiday apartment]([root]apartment-1-annexe/)
 * [view the Flat holiday apartment]([root]apartment-2-flat/)
+* [discover the historic Old Clink]([root]about-old-clink/)
+* [read our customer feedback]([root]about-old-clink/testimonials/)
 * [what to do in Budleigh Salterton]([root]about-budleigh-salterton/)
 * [Budleigh Salterton travel directions]([root]book-accommodation/travel/)
 * [book your holiday accommodation]([root]book-accommodation/)

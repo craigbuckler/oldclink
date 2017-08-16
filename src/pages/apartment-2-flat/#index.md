@@ -15,7 +15,7 @@ ctalink: book-accommodation/?book=Flat
 
 The Flat is a comfortable two-bedroom self-catering holiday apartment ideal for families or sharing with friends. The accommodation sleeps four people but can be adapted for six.
 
-Prices start from just £110 per night - [view the holiday rental tariff&hellip;](#accommodation-tariff)
+Prices start from just £110 per night - [view the Flat holiday rental tariff](#accommodation-tariff) and [current availability&hellip;](#accommodation-availability)
 
 <figure>
 
@@ -112,7 +112,9 @@ The promenade along the famous beach leads to the Otter estuary where you can ta
 
 
 ## Accommodation availability
-The Flat is available throughout the year but please [book early to avoid disappointment]([root]book-accommodation/?book=Flat).
+The Flat is available throughout the year but please [book early to avoid disappointment]([root]book-accommodation/?book=Flat). Provisional availability is shown in the calendar below but we recommend you [contact us]([root]book-accommodation/?book=Flat) to confirm dates.
+
+<iframe data-src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=280&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;src=15gef339ihk9nebmse4b4aishffo6h2f%40import.calendar.google.com&amp;color=%23853104&amp;ctz=Europe%2FLondon" scrolling="no" class="iframe load"></iframe>
 
 
 ## Accommodation tariff
