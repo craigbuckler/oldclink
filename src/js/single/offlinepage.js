@@ -38,9 +38,9 @@ window.caches.keys()
                 let
                   li = document.createElement('li'),
                   a = li.appendChild(document.createElement('a'));
-                  a.setAttribute('href', req);
-                  a.textContent = a.pathname;
-                  frag.appendChild(li);
+                a.setAttribute('href', req);
+                a.textContent = a.pathname;
+                frag.appendChild(li);
               });
 
             if (list) list.appendChild(frag);

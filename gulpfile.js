@@ -31,7 +31,7 @@ const
     version     : pkg.version,
     sitedesc    : site.description,
     author      : pkg.author,
-    domain      : devBuild ? site.devdomain : site.domain,
+    thisDomain  : devBuild ? site.devdomain : site.domain,
     rootpath    : devBuild ? site.devroot : site.root,
     layout      : 'page.html',
     now         : now,
@@ -81,7 +81,7 @@ for (let p in site) {
 }
 
 // full root URL
-sitemeta.rootURL = sitemeta.domain + (sitemeta.rootpath || '');
+sitemeta.rootURL = sitemeta.thisDomain + (sitemeta.rootpath || '');
 
 // Browser-sync
 var browsersync	= false;

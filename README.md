@@ -6,5 +6,7 @@ Static site scaffold built using Gulp, Metalsmith and custom plugins. Implements
 
 ## Build and deploy
 
-    NODE_ENV=production gulp build
-    gulp deploy -u <user> -p <pass>
+```bash
+NODE_ENV=production gulp build
+gulp deploy -u <user> -p <pass>
+```

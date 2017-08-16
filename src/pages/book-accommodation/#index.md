@@ -17,10 +17,11 @@ To book your stay at one of The Old Clink self-catering holiday apartments in Bu
 
 to discuss:
 
-* your preference for [the Annexe]([root]apartment-1-annexe/) or [the Flat]([root]apartment-2-flat/) apartment
+* your preference for [the one-bedroom Annexe]([root]apartment-1-annexe/) or [the two-bedroom Flat]([root]apartment-2-flat/)
+* the [Annexe tariff]([root]apartment-1-annexe/#accommodation-tariff) and [availability]([root]apartment-1-annexe/#accommodation-availability)
+* the [Flat tariff]([root]apartment-2-flat/#accommodation-tariff) and [availability]([root]apartment-2-flat/#accommodation-availability)
 * the number of occupants
 * the start and end dates of your stay
 * other preferences or requirements
-* availability and charges (see also [the Annexe tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [the Flat tariff]([root]apartment-2-flat/#accommodation-tariff)).
 
 Please leave your telephone number and Sarah will be happy to call you back.

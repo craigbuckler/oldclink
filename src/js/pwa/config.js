@@ -3,9 +3,10 @@
 */
 
 // configuration
-`use strict`;
+'use strict';
 
 const
+  domain = '/* @echo rootURL */',
   version = '/* @echo version */',
   CACHE = version + '/* @echo PWAcache */',
   offlineURL = '/* @echo rootpath *//* @echo offlineURL */',

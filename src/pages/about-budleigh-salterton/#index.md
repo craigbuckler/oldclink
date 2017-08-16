@@ -15,6 +15,8 @@ ctalink: book-accommodation/
 
 Budleigh Salterton is a popular tourist location in an area of outstanding natural beauty on the Jurassic coast between Exmouth and Sidmouth. The small town has fewer than 6,000 residents but is less than half an hour's drive from Exeter, the capital of Devon.
 
+Budleigh is busiest during the summer months but the mild west-country weather makes it suitable for off-season winter, Christmas and New Year breaks.
+
 The promenade along the famous pebble beach leads to the Otter estuary. Things to do in Budleigh Salterton:
 
 > A unique and beautiful place.
@@ -32,7 +34,7 @@ The promenade along the famous pebble beach leads to the Otter estuary. Things t
 * swim in the highest-rated clean water sea
 * enjoy local amenities such as golf, fishing, tennis, bowls, football, rugby, cricket, croquet, horse riding and more.
 
-East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wikipedia.org/wiki/Walter_Raleigh), the eminent Elizabethan explorer who led expeditions to South America during the 1580s.
+East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wikipedia.org/wiki/Walter_Raleigh), the eminent Elizabethan explorer who led expeditions to America in the 1580s.
 
 <figure>
 
@@ -68,7 +70,7 @@ East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wi
 <cite>B &amp; R, London</cite>
 
 ## Close to Budleigh Salterton
-The following locations and areas of interest are all within an hour of The Old Clink [holiday accommodation in Budleigh Salterton]([root]).
+The following locations and areas of interest are all within an hour of The Old Clink [Annexe]([root]apartment-1-annexe/) and [Flat]([root]apartment-2-flat/) holiday [accommodation apartments in Budleigh Salterton]([root]).
 
 ### Exmouth town and beach
 [Exmouth](http://www.exmouth-guide.co.uk/) is one of the largest towns in Devon and is a short fifteen minute drive west of Budleigh Salterton. Alternatively, you can follow the coast or off-road footpaths to reach Exmouth within an hour. Exmouth offers:

@@ -12,14 +12,21 @@ ctalink: book-accommodation/
 
 We hope everyone has a safe and enjoyable stay at The Old Clink.
 
+Two sea-view holiday accommodation apartments are available:
+
+1. the [one-bedroom Annexe]([root]apartment-1-annexe/) - one or two occupants
+1. the [two-bedroom Flat]([root]apartment-2-flat/) - up to six occupants
+
 > Our ninth year at The Old Clink. It feels like a second home to us.
 <cite>B & A, Bristol</cite>
 
 ## Apartment availability
-The Old Clink apartments are available all year but please [book in advance]([root]book-accommodation/) to avoid disappointment. Holiday stays are normally booked from Saturday to Saturday but alternative days and short vacations may be possible.
+The Old Clink apartments are available all year including Christmas and New Year but please [book in advance]([root]book-accommodation/) to avoid disappointment. Holiday stays are normally reserved from Saturday to Saturday but alternative days and short vacations may be possible.
+
+For provisional dates, please refer to the [Annexe availability calendar]([root]apartment-1-annexe/#accommodation-availability) and the [Flat availability calendar]([root]apartment-2-flat/#accommodation-availability).
 
 ## Accommodation tariff
-Quoted prices are per apartment - *not per person*. Tariffs are charged in UK Pounds Sterling according to the apartment and time of year. For more details, please refer to the [Annexe holiday apartment tariff]([root]apartment-1-annexe/#accommodation-tariff) (up to two occupants) and the [Flat holiday apartment tariff]([root]apartment-2-flat/#accommodation-tariff) (up to six occupants).
+Quoted prices are per apartment - *not per person*. Tariffs are charged in UK Pounds Sterling according to the apartment and time of year. For more details, please refer to the [Annexe holiday apartment tariff]([root]apartment-1-annexe/#accommodation-tariff) and the [Flat holiday apartment tariff]([root]apartment-2-flat/#accommodation-tariff).
 
 Please [contact Sarah]([root]book-accommodation/) to confirm your requirements and dates of stay. A non-refundable deposit is requested to reserve your accommodation. The remaining balance is due six weeks prior to arrival at the apartment.
 
@@ -73,6 +80,9 @@ All gas, electricity, water and central heating is included in the price.
 
 ## Wi-fi
 Wifi is included in the price but no guarantee can be given for speed or availability. A reasonable-use policy may be enforced.
+
+## Noise
+Budleigh Salterton is a quiet town and we ask our residents to respect neighbours' privacy.
 
 ## Smoking
 Smoking is not permitted in either apartment.

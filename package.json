@@ -1,6 +1,6 @@
 {
   "name": "oldclink",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The Old Clink website generator",
   "author": "The Old Clink",
   "main": "gulp build",
@@ -8,7 +8,7 @@
     "name": "The Old Clink",
     "shortname": "Old Clink",
     "description": "Budleigh Salterton self-catering holiday apartments",
-    "keywords": "clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, break, beach, seaside, coastal, apartment, accommodation, cottage, home, tour, tourist, home, direct, private, independent, let, lets, letting, rent, rental, self catering, book, booking, hire",
+    "keywords": "old clink, budleigh, budleigh salterton, devon, england, uk, holiday, vacation, stay, break, beach, seaside, coastal, apartment, accommodation, cottage, home, tour, tourist, home, direct, private, independent, let, lets, letting, rent, rental, self catering, book, booking, hire",
     "company": "The Old Clink",
     "font": "https://fonts.googleapis.com/css?family=Jim+Nightshade|Raleway:300,300i,600&subset=latin",
     "twitter": "",
@@ -29,13 +29,17 @@
     "start": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigbuckler/oldclink.git"
+  },
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "7.1.1",
+    "autoprefixer": "7.1.2",
     "css-mqpacker": "6.0.1",
     "cssnano": "3.10.0",
     "del": "3.0.0",
-    "ejs": "2.5.6",
+    "ejs": "2.5.7",
     "gulp": "3.9.1",
     "gulp-concat": "2.6.1",
     "gulp-deporder": "1.1.0",
@@ -58,10 +62,10 @@
     "metalsmith-markdown": "0.2.1",
     "metalsmith-publish": "0.1.5",
     "metalsmith-word-count": "0.0.4",
-    "postcss-assets": "4.1.0",
+    "postcss-assets": "4.2.0",
     "vinyl-ftp": "0.6.0"
   },
   "devDependencies": {
-    "browser-sync": "2.18.12"
+    "browser-sync": "2.18.13"
   }
 }
