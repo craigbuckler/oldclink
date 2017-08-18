@@ -34,6 +34,8 @@ The promenade along the famous pebble beach leads to the Otter estuary. Things t
 * swim in the highest-rated clean water sea
 * enjoy local amenities such as golf, fishing, tennis, bowls, football, rugby, cricket, croquet, horse riding and more.
 
+The [Budleigh Salterton Literary Festival](https://www.budlitfest.org.uk/) is held every September and features talks and courses from a variety of popular authors and personalities.
+
 East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wikipedia.org/wiki/Walter_Raleigh), the eminent Elizabethan explorer who led expeditions to America in the 1580s.
 
 <figure>
