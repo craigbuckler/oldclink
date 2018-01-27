@@ -95,6 +95,9 @@ Pets are not permitted in either apartment.
 
 However, well behaved dogs are welcome to use alternative accommodation within the property when available. Please [contact Sarah]([root]book-accommodation/) to discuss your requirements.
 
+## Privacy
+Your enquiries and personal details are treated with the strictest confidence. No information is shared or passed to other parties without your prior approval.
+
 ## Complaints
 We hope you enjoy your stay. In the unlikely event of dissatisfaction with the accommodation or facilities, please [contact Sarah]([root]book-accommodation/) immediately so we have an opportunity to rectify the problem.
 

@@ -9,7 +9,7 @@
 <link rel="preload" href="<%= root %>js/main.js?<%- version %>" as="script">
 
 <!-- styles -->
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <link rel="stylesheet" href="<%= root %>css/main.css?<%- version %>">
 
 <!-- mobile settings -->
@@ -32,10 +32,13 @@
 <link rel="shortcut icon" href="<%= root %>favicon.ico">
 
 <!-- page information -->
-<meta name="application-name" content="<%= name %>"/>
+<meta name="application-name" content="<%= name %>">
 <meta name="description" content="<%= description %>">
 <meta name="keywords" content="<%= keywords %>">
+<meta name="page-topic" content="<%= topic %>">
 <meta name="author" content="<%= author %>">
+<meta name="owner" content="<%= author %>">
+<meta name="revisit-after" content="7 days">
 
 <!-- indexing -->
 <% if (devBuild || private) { %>
