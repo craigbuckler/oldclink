@@ -3,20 +3,21 @@
 
 	// requires: lib.js
 */
+/* global oc */
 
 (function() {
 
-'use strict';
+  'use strict';
 
-if (!window.addEventListener) return;
+  if (!window.addEventListener) return;
 
-window.addEventListener('unload', removeTarget, false);
+  window.addEventListener('unload', removeTarget, false);
 
-var menu = oc.lib.id(oc.menuId);
-if (menu) menu.addEventListener('animationend', function() { setTimeout(removeTarget, 100); }, false);
+  var menu = oc.lib.id(oc.menuId);
+  if (menu) menu.addEventListener('animationend', function() { setTimeout(removeTarget, 100); }, false);
 
-function removeTarget() {
-  history.replaceState('', document.title, location.pathname + location.search);
-}
+  function removeTarget() {
+    history.replaceState('', document.title, location.pathname + location.search);
+  }
 
 })();

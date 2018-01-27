@@ -3,7 +3,7 @@
 
   // requires: lib.js
 */
-/* global oc ga */
+
 (function() {
 
   'use strict';

@@ -1,4 +1,130 @@
-// form styles
+// form styling
+$field-back: $color-back2;
+$field-hint: $color-fore3;
+$field-help: #c00;
+
+form {
+  @include reset;
+}
+
+form + * {
+  clear: both;
+}
+
+.validator {
+  display: none;
+
+  &.active {
+    display: block;
+  }
+}
+
+.formgrid {
+  display: grid;
+  grid-template-columns: 1fr 1em 2fr;
+  grid-gap: 5px 0.5em;
+  align-items: center;
+  grid-auto-flow: dense;
+  margin: 1em 0;
+
+  p {
+    grid-column: 1 / 4;
+    clear: both;
+    font-weight: 600;
+    user-select: none;
+  }
+
+  button {
+    margin: 1em 0;
+  }
+}
+
+input, output, textarea, select, button {
+  grid-column: 2 / 4;
+  clear: both;
+  float: right;
+  width: 70%;
+  font-family: $font-main;
+  font-size: 1em;
+  padding: 0.2em 0.4em;
+  margin: 0 0 5px 0;
+  background-color: $field-back;
+  border: 1px solid $field-back;
+	border-radius: 0;
+  outline: 0 none;
+  box-shadow: none;
+
+  &:focus {
+    border-color: $field-hint;
+  }
+
+  &:focus + label {
+    color: $field-hint;
+  }
+}
+
+select {
+  padding-left: 0.2em;
+  outline: 0 none;
+  cursor: pointer;
+}
+
+textarea {
+  height: auto;
+
+  & + label {
+    align-self: start;
+  }
+}
+
+label {
+  grid-column: 1 / 2;
+  float: left;
+  font-size: 1em;
+  text-align: right;
+  padding: 0;
+  user-select: none;
+  cursor: pointer;
+}
+
+input[type="date"], input[type="number"] {
+  max-width: 11em;
+}
+
+input[type="checkbox"], input[type="radio"] {
+
+  grid-column: 1 / 3;
+  justify-self: end;
+  width: auto;
+  float: left;
+  padding: 0;
+  margin: 0.4em 0.5em 0 30%;
+
+  & + label {
+    grid-column: 3 / 4;
+    text-align: left;
+    padding: 0;
+  }
+
+  &:checked + label {
+    font-weight: 600;
+  }
+
+}
+
+// grid layout
+@supports (display: grid) {
+
+  input, output, textarea, select, button {
+    width: 100%;
+    margin: 0;
+  }
+
+  input[type="checkbox"], input[type="radio"] {
+    margin: 0;
+  }
+
+}
 
 button, a.button {
   display: block;
@@ -14,8 +140,12 @@ button, a.button {
   border: 0 none;
   outline: 0;
   box-shadow: none;
-  user-select: none;
   cursor: pointer;
+
+  &:hover, &:focus {
+    color: #fff;
+    background-color: $field-hint;
+  }
 
   &::-moz-focus-inner {
     padding: 0;
@@ -50,4 +180,98 @@ button, a.button {
 
   }
 
+}
+
+// submit status
+.submit {
+  display: inline-block;
+  margin: 0 auto;
+  color: $field-hint;
+
+  &:before {
+    display: inline-block;
+    content: ' ';
+    width: 1.4em;
+    height: 1.4em;
+    vertical-align: middle;
+    margin-right: 0.3em;
+    border: 3px dashed $field-hint;
+    border-radius: 50%;
+    will-change: transform, filter;
+    animation: spinner 2s linear infinite;
+  }
+}
+
+// submitting actions
+button[type='submit'] {
+  display: block;
+}
+
+.submit {
+  display: none;
+}
+
+form.submitting {
+
+  button[type='submit'] {
+    display: none;
+  }
+
+  .submit {
+    display: inline-block;
+  }
+
+}
+
+// error
+p.error {
+  display: none;
+  text-align: center;
+  color: $field-help;
+}
+
+form.error {
+
+  p.error {
+    display: block;
+  }
+
+  input, output, textarea, select {
+
+    &:invalid, &:invalid + label {
+      color: $field-help;
+    }
+
+  }
+
+}
+
+// successful post
+p.posted {
+  display: none;
+  font-size: 1.2em;
+  text-align: center;
+  font-weight: 600;
+  font-style: italic;
+  color: $field-help;
+}
+
+form.success {
+
+  div, p {
+    display: none;
+  }
+
+  p.posted {
+    display: block;
+  }
+
+}
+
+
+// animation
+@keyframes spinner {
+  0% { transform: scale(1) rotate(0deg); filter: opacity(1); }
+  50% { transform: scale(0.6) rotate(180deg); filter: opacity(0.5); }
+	100% { transform: scale(1) rotate(720deg); filter: opacity(1); }
 }

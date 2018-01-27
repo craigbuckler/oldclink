@@ -3,6 +3,7 @@
 */
 
 var oc = oc || {
+	name:					'OldClink',
 	version:			'/* @echo version */',
 	devBuild:			/* @echo devBuild */,
 	font:					'/* @echo font */',

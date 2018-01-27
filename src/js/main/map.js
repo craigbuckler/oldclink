@@ -1,62 +1,82 @@
 /*
 	Google map
 
-	// requires: lib.js
+	// requires: lib.js analytics.js
 */
+/* global oc google */
 (function() {
 
-'use strict';
+  'use strict';
 
-if (!window.addEventListener || !document.body.classList) return;
+  if (!window.addEventListener || !document.body.classList) return;
 
-var
-  cfg = {
-    id: 'map',
-    active: 'active',
-    center: { lat: 50.629000, lng: -3.322431 },
-    zoom: 15,
-    type: 'roadmap',
-    api: 'AIzaSyC2hLWIi3-LUMcdbXcYXKpTo-phXX9snJo'
-  },
-  map;
+  var
+    cfg = {
+      id: 'map',
+      active: 'active',
+      center: { lat: 50.629000, lng: -3.322431 },
+      zoom: 15,
+      type: 'roadmap',
+      api: 'AIzaSyC2hLWIi3-LUMcdbXcYXKpTo-phXX9snJo'
+    },
+    map;
 
-// load maps API
-window.addEventListener('load', function() {
-
+  // load maps API after delay
   map = oc.lib.id(cfg.id);
   if (map) {
 
-    // load map API
-    var scr = document.createElement('script');
-    scr.src = 'https://maps.googleapis.com/maps/api/js?key=' + cfg.api + '&callback=oc.mapStart';
-    scr.async = 1;
-    document.head.appendChild(scr);
+    setTimeout(function() {
+      window.addEventListener('scrollresize', mapInView, false);
+      mapInView();
+    }, 2000);
 
   }
 
-}, false);
+  // load map when in view
+  function mapInView() {
 
+    var
+      wT = window.pageYOffset,
+      wB = wT + window.innerHeight,
+      cRect = map.getBoundingClientRect(),
+      pT = wT + cRect.top,
+      pB = pT + cRect.height;
 
-// show map
-oc.mapStart = function() {
+    if (wT < pB && wB > pT) {
 
-  // activate map element
-  map.classList.add(cfg.active);
+      // cancel event
+      window.removeEventListener('scrollresize', mapInView, false);
+
+      // load map API
+      var scr = document.createElement('script');
+      scr.src = 'https://maps.googleapis.com/maps/api/js?key=' + cfg.api + '&callback=ow.mapStart';
+      scr.async = 1;
+      document.head.appendChild(scr);
+
+    }
+
+  }
 
   // show map
-  var mapControl = new google.maps.Map(map, {
-    center: cfg.center,
-    zoom: cfg.zoom,
-    mapTypeId: cfg.type
-  });
+  oc.mapStart = function() {
 
-  // show marker
-  var marker = new google.maps.Marker({
-    position: cfg.center,
-    map: mapControl
-  });
+  // activate map element
+    map.classList.add(cfg.active);
 
-};
+    // show map
+    var mapControl = new google.maps.Map(map, {
+      center: cfg.center,
+      zoom: cfg.zoom,
+      mapTypeId: cfg.type
+    });
+
+    // show marker
+    new google.maps.Marker({
+      position: cfg.center,
+      map: mapControl
+    });
+
+  };
 
 
 })();
