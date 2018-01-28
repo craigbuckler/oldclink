@@ -8,7 +8,7 @@
 
   'use strict';
 
-  if (!oc.analytics || oc.devBuild || location.host.indexOf('.net') < 0 || !document.head) return;
+  if (!oc.analytics || oc.devBuild || location.host.indexOf('.co') < 0 || !document.head) return;
 
   // load analytics API
   setTimeout(function() {

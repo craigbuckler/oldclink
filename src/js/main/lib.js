@@ -188,6 +188,7 @@ oc.lib = (function() {
       req, ptime = +new Date(), complete = false, timeoutCheck,
       url = obj, retUrl = url,
       method = 'GET',
+      nocache = +new Date(),
       data = null;
 
     callback = callback || function(){};
@@ -196,7 +197,7 @@ oc.lib = (function() {
     if (typeof obj == 'string') {
 
       // string passed
-      url += (url.lastIndexOf('?') < 0 ? '?' : '&') + 'ajax=1';
+      url += (url.lastIndexOf('?') < 0 ? '?' : '&') + 'ajax=' + nocache;
 
     }
     else {
@@ -208,13 +209,13 @@ oc.lib = (function() {
       // get argument data
       if (method == 'GET') {
         retUrl += '?' + getFormData(obj, true);
-        url = retUrl + '&ajax=1';
+        url = retUrl + '&ajax=' + nocache;
       }
       else {
         if (obj.nodeType) data = new FormData(obj);
         else data = new FormData();
         if (appendData) data = appendData(data);
-        data.append('ajax', 1);
+        data.append('ajax', nocache);
       }
 
     }

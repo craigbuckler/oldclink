@@ -38,13 +38,13 @@ to discuss:
     <input type="radio" id="apartment2" name="apartment" value="Annexe and Flat" />
     <label for="apartment2">book both apartments</label>
 
-    <input type="text" id="name" name="name" value="" required="required" maxlength="50" />
+    <input type="text" id="name" name="name" autocomplete="name" value="" required="required" maxlength="50" />
     <label for="name">name</label>
 
-    <input type="tel" id="telephone" name="telephone" value="" required="required" minlength="6" maxlength="20" />
+    <input type="tel" id="telephone" name="telephone" autocomplete="tel" value="" required="required" minlength="6" maxlength="20" />
     <label for="telephone">telephone</label>
 
-    <input type="email" id="email" name="email" value="" required="required" minlength="6" maxlength="80" />
+    <input type="email" id="email" name="email" value="" autocomplete="email" required="required" minlength="6" maxlength="80" />
     <label for="email">email</label>
 
     <input type="number" id="adults" name="adults" required="required" value="2" min="1" max="8" />
@@ -80,7 +80,7 @@ to discuss:
       <option value=""></option>
       <option value="web search">web search</option>
       <option value="Facebook">Facebook</option>
-      <option value="Twitter">Twitter</option>
+      <option value="social media">other social media</option>
       <option value="travel website">travel website</option>
       <option value="recommendation">recommendation</option>
       <option value="stayed before">stayed before</option>

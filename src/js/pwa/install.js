@@ -11,7 +11,7 @@ self.addEventListener('install', event => {
   // cache core files
   event.waitUntil(
     installStaticFiles()
-    .then(() => self.skipWaiting())
+      .then(() => self.skipWaiting())
   );
 
 });

@@ -40,7 +40,7 @@
 
     // Gulp and plugins
     gulp          = require('gulp'),
-    gutil         = require('gulp-util'),
+    noop          = require('gulp-noop'),
     newer         = require('gulp-newer'),
     imagemin      = require('gulp-imagemin'),
     sass          = require('gulp-sass'),
@@ -267,7 +267,7 @@
       .pipe(preprocess({ extension: 'js', context: sitemeta }))
       .pipe(postcss(css.processors))
       .pipe(gulp.dest(css.build))
-      .pipe(browsersync ? browsersync.reload({ stream: true }) : gutil.noop());
+      .pipe(browsersync ? browsersync.reload({ stream: true }) : noop());
   });
 
 
@@ -285,11 +285,11 @@
       .pipe(preprocess({ context: sitemeta }))
       .pipe(deporder())
       .pipe(concat(js.filename))
-      .pipe(devBuild ? gutil.noop() : stripdebug())
-      .pipe(devBuild ? gutil.noop() : uglify())
-      .on('error', (err) => { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
+      .pipe(devBuild ? noop() : stripdebug())
+      .pipe(devBuild ? noop() : uglify())
+      .on('error', (err) => { console.log(err.toString()); })
       .pipe(gulp.dest(js.build))
-      .pipe(browsersync ? browsersync.reload({ stream: true }) : gutil.noop());
+      .pipe(browsersync ? browsersync.reload({ stream: true }) : noop());
 
   });
 
@@ -305,10 +305,10 @@
 
     return gulp.src(jssingle.src)
       .pipe(preprocess({ context: sitemeta }))
-      .pipe(devBuild ? gutil.noop() : stripdebug())
-      .pipe(devBuild ? gutil.noop() : lightmin())
-      .pipe(devBuild ? gutil.noop() : trimlines())
-      .on('error', (err) => { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
+      .pipe(devBuild ? noop() : stripdebug())
+      .pipe(devBuild ? noop() : lightmin())
+      .pipe(devBuild ? noop() : trimlines())
+      .on('error', (err) => { console.log(err.toString()); })
       .pipe(gulp.dest(jssingle.build));
 
   });
@@ -328,10 +328,10 @@
       .pipe(preprocess({ context: sitemeta }))
       .pipe(deporder())
       .pipe(concat(jspwa.filename))
-      .pipe(devBuild ? gutil.noop() : stripdebug())
-      .pipe(devBuild ? gutil.noop() : lightmin())
-      .pipe(devBuild ? gutil.noop() : trimlines())
-      .on('error', (err) => { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
+      .pipe(devBuild ? noop() : stripdebug())
+      .pipe(devBuild ? noop() : lightmin())
+      .pipe(devBuild ? noop() : trimlines())
+      .on('error', (err) => { console.log(err.toString()); })
       .pipe(gulp.dest(jspwa.build));
 
   });
@@ -409,7 +409,7 @@
         user      : arg.user || arg.u,
         password  : arg.password || arg.p,
         parallel  : 1,
-        log       : gutil.log
+        log       : console.log
       }),
       glob = [
         dir.build + '**/*'
