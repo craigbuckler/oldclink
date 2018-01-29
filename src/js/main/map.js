@@ -14,7 +14,7 @@
     cfg = {
       id: 'map',
       active: 'active',
-      center: { lat: 50.629000, lng: -3.322431 },
+      center: { lat: 50.628910, lng: -3.322400 },
       zoom: 15,
       type: 'roadmap',
       api: 'AIzaSyC2hLWIi3-LUMcdbXcYXKpTo-phXX9snJo'
@@ -49,7 +49,7 @@
 
       // load map API
       var scr = document.createElement('script');
-      scr.src = 'https://maps.googleapis.com/maps/api/js?key=' + cfg.api + '&callback=ow.mapStart';
+      scr.src = 'https://maps.googleapis.com/maps/api/js?key=' + cfg.api + '&callback=oc.mapStart';
       scr.async = 1;
       document.head.appendChild(scr);
 

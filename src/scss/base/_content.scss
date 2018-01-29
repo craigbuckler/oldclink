@@ -35,10 +35,10 @@ article {
   }
 
   h2, h3 {
-    margin-top: 1em;
+    margin-top: 2em;
   }
 
-  h2 + p, h3 + p {
+  h2 + p, h3 + p, h2 + blockquote + p, h3 + blockquote + p {
     margin-top: 0.2em;
   }
 
@@ -157,7 +157,7 @@ article {
 
     @include respond('small') {
 
-      margin-top: 1em;
+      margin-top: 2em;
       margin-bottom: 1em;
 
       p {

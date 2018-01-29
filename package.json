@@ -1,7 +1,7 @@
 {
   "name": "oldclink",
-  "version": "1.1.0",
-  "description": "The Old Clink website generator",
+  "version": "1.1.1",
+  "description": "The Old Clink website",
   "author": "The Old Clink",
   "main": "gulp build",
   "site": {

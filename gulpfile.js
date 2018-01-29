@@ -83,6 +83,17 @@
   // full root URL
   sitemeta.rootURL = sitemeta.thisDomain + (sitemeta.rootpath || '');
 
+  // CORS
+  sitemeta.CORS = `
+    default-src 'self';
+    style-src   'self' 'unsafe-inline' *.googleapis.com;
+    script-src  'self' *.google-analytics.com *.googletagmanager.com *.googleapis.com *.cloudflare.com data:;
+    connect-src 'self' *.google-analytics.com *.googleapis.com *.gstatic.com *.optimalworks.net data:;
+    form-action 'self' *.optimalworks.net; img-src * data:;
+    font-src    'self' *.gstatic.com data:;
+    frame-src   'self' *.google.com;
+  `.trim().replace(/\s+/g, ' ');
+
   // Browser-sync
   var browsersync	= false;
 

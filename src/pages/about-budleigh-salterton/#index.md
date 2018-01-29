@@ -68,6 +68,8 @@ East Budleigh is famous as the birth place of [Sir Walter Raleigh](https://en.wi
 
 </figure>
 
+<div id="map" class="full"></div>
+
 > Fourteen days in The Clink is not long enough. We have no desire to escape!
 <cite>B &amp; R, London</cite>
 

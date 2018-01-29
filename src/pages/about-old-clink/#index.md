@@ -58,3 +58,9 @@ The Old Clink offers a unique opportunity to escape. Those who stay leave feelin
   <figcaption>Welcome to The Old Clink, Budleigh Salterton holiday accommodation</figcaption>
 
 </figure>
+
+
+## Location in Budleigh Salterton
+The Old Clink is located at the end of Budleigh Salterton High Street just before you reach the beach promenade. See [Budleigh Salterton travel directions]([root]book-accommodation/travel/) for more information.
+
+<div id="map" class="full"></div>
