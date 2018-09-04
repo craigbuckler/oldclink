@@ -20,6 +20,7 @@
 @include icon('tick');
 @include icon('phone');
 @include icon('email');
+@include icon('home-add');
 @include icon('facebook');
 @include icon('twitter');
 
@@ -83,11 +84,14 @@ nav.relative {
     background-color: rgba($color-back2,0.85);
     border-radius: 5px 5px 0 0;
     box-shadow: 0 0 2px #000;
-    will-change: transform;
     transform: translateY(100%);
     animation: 0.5s ease-out 0.5s forwards showcontact;
   }
 
+}
+
+#install {
+  display: none;
 }
 
 td.tick {

@@ -1,22 +1,22 @@
 <header>
 
-  <section id="logo"><p><a href="[root]"><%- name %></a></p></section>
+  <div id="logo"><p><a href="[root]"><%- name %></a></p></div>
 
   <% if (hero) { %>
-    <figure data-href="[root]images/hero/<%- hero %>.jpg" data-srcset="[root]images/hero/<%- hero %>.jpg 800w, [root]images/hero/<%- hero %>-hi.jpg 1200w" class="hero progressive replace" itemprop="primaryImageOfPage">
+    <figure data-href="[root]images/hero/<%- hero %>.jpg" data-srcset="[root]images/hero/<%- hero %>.jpg 800w, [root]images/hero/<%- hero %>-hi.jpg 1200w" class="hero progressive replace">
       <img src="[root]images/hero/<%- hero %>-pv.jpg" alt="<%= hero.replace(/\d/g, ' ').replace(/\-/g, ' ').replace(/\s+/, ' ').trim(); %>" class="preview" />
     </figure>
   <% } %>
 
   <% if (heroquote) { %>
-  <section class="quote">
+  <div class="quote">
     <q><%- heroquote %></q>
     <% if (herocite) { %> <cite><%- herocite %></cite><% } %>
-  </section>
+  </div>
   <% } %>
 
   <% if (ctalink && ctatext) { %>
-    <section class="cta"><a href="[root]<%- ctalink %>" class="ghost button"><%- ctatext %></a></section>
+    <div class="cta"><a href="[root]<%- ctalink %>" class="ghost button"><%- ctatext %></a></div>
   <% } %>
 
 </header>
