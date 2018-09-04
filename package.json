@@ -1,6 +1,6 @@
 {
   "name": "oldclink",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "The Old Clink website",
   "author": "The Old Clink",
   "main": "gulp build",
@@ -36,9 +36,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "8.3.0",
-    "css-mqpacker": "6.0.2",
-    "cssnano": "3.10.0",
+    "autoprefixer": "9.1.5",
+    "css-mqpacker": "7.0.0",
+    "cssnano": "4.1.0",
     "del": "3.0.0",
     "gulp": "3.9.1",
     "gulp-concat": "2.6.1",
@@ -47,12 +47,12 @@
     "gulp-lightmin": "0.0.2",
     "gulp-newer": "1.4.0",
     "gulp-noop": "1.0.0",
-    "gulp-postcss": "7.0.1",
-    "gulp-preprocess": "2.0.0",
+    "gulp-postcss": "8.0.0",
+    "gulp-preprocess": "3.0.1",
     "gulp-sass": "4.0.1",
     "gulp-strip-debug": "3.0.0",
     "gulp-trimlines": "1.0.1",
-    "gulp-uglify": "3.0.0",
+    "gulp-uglify": "3.0.1",
     "jstransformer-ejs": "0.2.0",
     "metalsmith": "2.3.0",
     "metalsmith-beautify": "0.2.0",
@@ -68,6 +68,6 @@
     "vinyl-ftp": "0.6.1"
   },
   "devDependencies": {
-    "browser-sync": "2.23.7"
+    "browser-sync": "2.24.7"
   }
 }

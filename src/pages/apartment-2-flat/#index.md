@@ -15,7 +15,7 @@ ctalink: book-accommodation/?book=Flat
 
 The Flat is a comfortable two-bedroom self-catering holiday apartment ideal for families or sharing with friends. The accommodation sleeps four people but can be adapted for six.
 
-Prices start from just £110 per night - [view the Flat holiday rental tariff](#accommodation-tariff) and [current availability&hellip;](#accommodation-availability)
+Prices start from just £95 per night - [view the Flat holiday rental tariff](#accommodation-tariff) and [current availability&hellip;](#accommodation-availability)
 
 <figure>
 
@@ -122,24 +122,24 @@ The Flat accommodation is charged at the following rate per night presuming a st
 
 |7 night tariff|UK sterling|Euros|US dollars|
 |-|-|
-|January - February|£85|€100|$110|
-|March|£110|€127|$145|
-|April - September|£125|€144|$163|
-|October|£110|€127|$145|
-|November - December|£85|€100|$110|
-|Christmas &amp; New Year|£150|€172|$195|
+|January - February|£95|€105|$120|
+|March|£120|€135|$150|
+|April - September|£135|€150|$165|
+|October|£120|€135|$150|
+|November - December|£95|€105|$120|
+|Christmas &amp; New Year|£160|€180|$200|
 
 
 For stays of less than seven days (two days minimum), the following nightly tariff applies:
 
 |2 night+ tariff|UK sterling|Euros|US dollars|
 |-|-|
-|January - February|£110|€127|$145|
-|March|£135|€155|$175|
-|April - September|£150|€172|$195|
-|October|£135|€155|$175|
-|November - December|£110|€127|$145|
-|Christmas &amp; New Year|£150|€172|$195|
+|January - February|£120|€135|$150|
+|March|£145|€160|$180|
+|April - September|£160|€180|$200|
+|October|£145|€160|$180|
+|November - December|£120|€135|$150|
+|Christmas &amp; New Year|£160|€180|$200|
 
 [Reserve Budleigh Salterton accommodation at The Old Clink Flat&hellip;]([root]book-accommodation/?book=Flat)
 

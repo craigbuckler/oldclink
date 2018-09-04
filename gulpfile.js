@@ -68,8 +68,8 @@
     // custom Metalsmith plugins
     msutil        = require(dir.lib + 'metalsmith-util'),
     addmeta       = require(dir.lib + 'metalsmith-addmeta'),
-    tags          = require(dir.lib + 'metalsmith-tags'),
-    rssfeed       = require(dir.lib + 'metalsmith-rssfeed'),
+    //tags          = require(dir.lib + 'metalsmith-tags'),
+    //rssfeed       = require(dir.lib + 'metalsmith-rssfeed'),
 
     // other modules
     del           = require('del'),
@@ -173,6 +173,7 @@
       .use(layouts(html.layouts))
       .use(msutil.shortcodes)
       .use(inline(html.inline))
+      .use(msutil.htmlTidy)
       .use(devBuild ? beautify() : minify())
       .use(debug ? msutil.debug : msutil.noop)
       .use(sitemap(html.sitemap))

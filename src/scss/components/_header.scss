@@ -19,7 +19,6 @@ header {
       left: 0;
       right: 0;
       background-color: rgba($color-fore3, 0);
-      will-change: background-color;
     }
 
     & + .quote {
@@ -33,7 +32,6 @@ header {
       }
 
       & + .quote {
-        will-change: filter, transform;
         animation: 1.5s ease-in-out 1.5s forwards quotehero;
       }
 
@@ -42,7 +40,7 @@ header {
 
   .quote {
     font-size: calc(1rem + 2vmin);
-    top: 20vmin;
+    top: 15vmin;
     padding: 0 3vw;
   }
 
