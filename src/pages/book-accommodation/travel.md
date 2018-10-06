@@ -10,7 +10,7 @@ ctatext: reserve apartment
 ctalink: book-accommodation/
 ---
 
-<section class="vcard" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<div class="vcard" itemscope="itemscope" itemtype="http://schema.org/Organization">
 
   <p class="adr" itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
     <a href="https://www.theoldclink.co.uk/" class="fn org url" itemprop="name" title="theoldclink.co.uk">The Old Clink</a>
@@ -25,7 +25,7 @@ ctalink: book-accommodation/
 
   <p><a href="[root]book-accommodation/" class="icon email" itemprop="email" title="send us an email">info {at} theoldclink dot co dot uk</a></p>
 
-</section>
+</div>
 
 Budleigh Salterton is ten miles south-east of the M5 Exeter junction 30. [Directions from the M5 motorway](https://www.google.co.uk/maps/dir/M5+Services,+Exeter/38+Fore+St,+Budleigh+Salterton+EX9+6NJ/@50.670295,-3.4526287,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x486da3d7fc3b6b77:0x8f90d1d3d6f3d24f!2m2!1d-3.460802!2d50.711403!1m5!1m1!1s0x486d758bcedd2243:0x2e89eb946c9d9c80!2m2!1d-3.3220826!2d50.6291246):
 
