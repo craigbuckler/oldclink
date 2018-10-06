@@ -8,7 +8,7 @@
 
   const
 
-  // show debug output
+    // show debug output
     debug         = false,
 
     pkg           = require('./package.json'),
@@ -20,7 +20,6 @@
       lib         : __dirname + '/lib/',
       src         : 'src/',
       build       : 'build/'
-    // build       : '/var/www/html/oldclink/'
     },
 
     // site meta data
@@ -44,6 +43,7 @@
     newer         = require('gulp-newer'),
     imagemin      = require('gulp-imagemin'),
     sass          = require('gulp-sass'),
+    sourcemaps    = devBuild ? require('gulp-sourcemaps') : null,
     postcss       = require('gulp-postcss'),
     preprocess    = require('gulp-preprocess'),
     deporder      = require('gulp-deporder'),
@@ -58,7 +58,6 @@
     publish       = require('metalsmith-publish'),
     layouts		    = require('metalsmith-layouts'),
     markdown      = require('metalsmith-markdown'),
-    headingid     = require('metalsmith-headings-identifier'),
     inline        = require('metalsmith-inline-source'),
     wordcount		  = require('metalsmith-word-count'),
     beautify      = require('metalsmith-beautify'),
@@ -121,12 +120,15 @@
     watch       : [dir.src + 'pages/**/*', dir.src + 'template/**/*'],
     build       : dir.build,
 
-    metadata: {
-      menuLowerCase: false
+    markdown: {
+      gfm: true,
+      tables: true,
+      smartypants: false,
+      xhtml: true
     },
 
-    headingid: {
-      linkTemplate: '<a href="#%s" alt="title" class="heading"></a>'
+    metadata: {
+      menuLowerCase: false
     },
 
     layouts: {
@@ -165,15 +167,13 @@
       .clean(false)
       .use(publish())
       .use(msutil.rename)
-      .use(markdown())
+      .use(markdown(html.markdown))
       .use(addmeta(html.metadata))
     // .use(tags())
-      .use(headingid(html.headingid))
       .use(wordcount({ raw: true }))
       .use(layouts(html.layouts))
       .use(msutil.shortcodes)
       .use(inline(html.inline))
-      .use(msutil.htmlTidy)
       .use(devBuild ? beautify() : minify())
       .use(debug ? msutil.debug : msutil.noop)
       .use(sitemap(html.sitemap))
@@ -275,9 +275,11 @@
   // Sass/CSS processing
   gulp.task('css', ['images'], () => {
     return gulp.src(css.src)
-      .pipe(sass(css.sassOpts))
+      .pipe(sourcemaps ? sourcemaps.init() : noop())
+      .pipe(sass(css.sassOpts).on('error', sass.logError))
       .pipe(preprocess({ extension: 'js', context: sitemeta }))
       .pipe(postcss(css.processors))
+      .pipe(sourcemaps ? sourcemaps.write() : noop())
       .pipe(gulp.dest(css.build))
       .pipe(browsersync ? browsersync.reload({ stream: true }) : noop());
   });

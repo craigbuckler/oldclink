@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="<%= language %>">
+<html lang="<%= language %>" itemscope itemtype="http://schema.org/WebPage">
 <head>
 <meta charset="UTF-8">
 <title><%- title %> | <%= name %></title>
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="<%= root %>css/main.css?<%- version %>">
 
 <!-- mobile settings -->
-<link rel="manifest" href="<%= root %>manifest.json">
+<link rel="manifest" href="<%- rootURL %>manifest.json">
 <meta name="theme-color" content="<%= themeColor %>">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -49,12 +49,18 @@
 
 <% mainImage = (hero ? rootURL + 'images/hero/' + hero + '.jpg' : '') %>
 
+<!-- Schema.org -->
+<meta itemprop="name" content="<%= title %>">
+<meta itemprop="description" content="<%= description %>">
+<meta itemprop="keywords" content="<%= keywords %>">
+<meta itemprop="about" content="<%= topic %>">
+<meta itemprop="author" content="<%= author %>">
+
 <!-- Open Graph -->
 <meta property="og:site_name" content="<%= name %>">
-<meta property="og:url" content="<%= rootURL %><%= url %>">
+<meta property="og:url" content="<%- rootURL %><%= url %>">
 <meta property="og:title" content="<%= title %>">
 <meta property="og:description" content="<%= description %>">
-<meta property="og:image" content="<%= mainImage %>">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="<%= language %>">
 
@@ -64,9 +70,16 @@
   <meta property="twitter:site" content="<%= twitter %>">
   <meta property="twitter:creator" content="<%= twitter %>">
 <% } %>
+
+<meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:title" content="<%= title %>">
 <meta property="twitter:description" content="<%= description %>">
-<meta property="twitter:image" content="<%= mainImage %>" />
+
+<% if (hero) { %>
+  <meta itemprop="primaryImageOfPage" content="<%= mainImage %>">
+  <meta property="og:image" content="<%= mainImage %>">
+  <meta property="twitter:image" content="<%= mainImage %>" />
+<% } %>
 
 </head>
 <body<% if (hero) { %> class="hashero"<% } %>>
