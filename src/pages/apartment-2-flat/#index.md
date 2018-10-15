@@ -121,7 +121,7 @@ The Flat is available throughout the year but please [book early to avoid disapp
 The Flat accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for up to six occupants. _(Euro and US dollar prices are approximate according to recent exchange rates.)_
 
 |7 night tariff|UK sterling|Euros|US dollars|
-|-|-|
+|-|-|-|-|
 |January - February|£95|€105|$120|
 |March|£120|€135|$150|
 |April - September|£135|€150|$165|
@@ -133,7 +133,7 @@ The Flat accommodation is charged at the following rate per night presuming a st
 For stays of less than seven days (two days minimum), the following nightly tariff applies:
 
 |2 night+ tariff|UK sterling|Euros|US dollars|
-|-|-|
+|-|-|-|-|
 |January - February|£120|€135|$150|
 |March|£145|€160|$180|
 |April - September|£160|€180|$200|

@@ -127,7 +127,7 @@ The Annexe is available throughout the year but please [book early to avoid disa
 The Annexe accommodation is charged at the following rate per night presuming a stay of at least seven days. This includes all facilities for either one or two occupants. _(Euro and US dollar prices are approximate according to recent exchange rates.)_
 
 |7 night tariff|UK sterling|Euros|US dollars|
-|-|-|-|
+|-|-|-|-|
 |January - February|£75|€85|$95|
 |March|£85|€95|$105|
 |April - September|£95|€105|$120|
@@ -139,7 +139,7 @@ The Annexe accommodation is charged at the following rate per night presuming a 
 For stays of less than seven days (two days minimum), the following nightly tariff applies:
 
 |2 night+ tariff|UK sterling|Euros|US dollars|
-|-|-|-|
+|-|-|-|-|
 |January - February|£90|€100|$110|
 |March|£100|€110|$125|
 |April - September|£110|€125|$135|
