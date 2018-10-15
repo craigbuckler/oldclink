@@ -94,12 +94,8 @@ nav.relative {
   display: none;
 }
 
-td.tick {
-  font-size: 0;
-
-  &:before {
-    font-size: 1rem;
-  }
+td.tick:before {
+  font-size: 1rem;
 }
 
 // animation

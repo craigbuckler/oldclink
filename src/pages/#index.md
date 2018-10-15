@@ -35,19 +35,19 @@ Two sea-view holiday accommodation apartments are available:
 1. the [two-bedroom Flat]([root]apartment-2-flat/) - up to 6 people
 
 |Old Clink apartment|[the Annexe]([root]apartment-1-annexe/)|[the Flat]([root]apartment-2-flat/)|
-|-|-|
+|-|-|-|
 |spectacular sea views|yes|yes|
 |maximum occupancy|2|4 (up to 6)|
 |bedrooms|1|2|
 |bed type|double or twin|superking or twin|
 |kitchen|yes|yes|
-|lounge/dining room||yes|
-|private terrace|yes||
-|direct access to beach|yes||
-|balcony||yes|
+|lounge/dining room|no|yes|
+|private terrace|yes|no|
+|direct access to beach|yes|no|
+|balcony|no|yes|
 |shower|yes|yes|
-|bath||yes|
-|en-suite WC|yes||
+|bath|no|yes|
+|en-suite WC|yes|no|
 |free wifi|yes|yes|
 |television|yes|yes|
 |gas central heating|yes|yes|
@@ -56,12 +56,12 @@ Two sea-view holiday accommodation apartments are available:
 |storage|yes|yes|
 |non-smoking|yes|yes|
 |free parking nearby|yes|yes|
-|disabled access||yes|
+|disabled access|no|yes|
 |availability|[all year]([root]apartment-1-annexe/#accommodation-availability)|[all year]([root]apartment-2-flat/#accommodation-availability)|
 |per night (UK sterling)*|£75 - £115|£95 - £160|
 |per night (Euros)*|€85 - €130|€105 - €180|
 |per night (US dollars)*|$95 - $145|$120 - $200|
-||[view the Annexe]([root]apartment-1-annexe/)|[view the flat]([root]apartment-2-flat/)|
+|view details|**[the Annexe]([root]apartment-1-annexe/)**|**[the Flat]([root]apartment-2-flat/)**|
 
 _* The tariff is PER PROPERTY per night (NOT per person) and is inclusive of all facilities and taxes. The price is set according to the season and length of stay. Euro and US dollar prices are approximate according to recent exchange rates. View the [Annexe]([root]apartment-1-annexe/#accommodation-tariff) or [Flat]([root]apartment-2-flat/#accommodation-tariff) apartment pages for the full tariff and pricing details._
 
@@ -76,6 +76,7 @@ _* The tariff is PER PROPERTY per night (NOT per person) and is inclusive of all
 </figure>
 
 ## Further information
+
 For more details about our holiday apartments&hellip;
 
 > Lovely stay. Amazing views. Very romantic. Hosts were charming. We will be back.
